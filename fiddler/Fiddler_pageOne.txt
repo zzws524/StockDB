@@ -1,0 +1,534 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--published at 2018-04-11 10:54:19-->
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta name="viewport" content="width=device-width" /><meta name="format-detection" content="telephone=no" /><link rel="shortcut icon" type="image/ico" href="http://www.eastmoney.com/favicon.ico" />
+    <link href="/css_001/master.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" media="all" href="/css_001/default.css?rt=20160616" /><link rel="stylesheet" type="text/css" media="all" href="/css_001/layer2012.css?rt=20120717" />
+    <script src="/js_001/ht_web.js"></script>
+    <script type="text/javascript" src="http://cmsjs.eastmoney.com/channel/jquery-1.8.3.min.js?rt=20151113"></script>
+
+    <script type="text/javascript">
+        var jQuery = $.noConflict();
+    </script>
+    <script src="http://emcharts.dfcfw.com/suggest/stocksuggest2017.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/js_001/base.js?201607061330"></script>
+    <script type="text/javascript" src="/js_001/plugin.js?201607061330"></script>
+
+    
+    <title>报业绩大全 _ 数据中心 _ 东方财富网</title>
+    <meta name="publishid" content="2018-04-11 10:54:19" />
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta name="keywords" content="2016年年报,2016年年报业绩快报,2016年年报业绩预告,2016年年报业绩披露时间,每股收益,营业收入,净利润营业收入同比增长,净利润同比增长,业绩预增" />
+    <meta name="description" content="东方财富网财报提供上市公司最新业绩报表、业绩快报、最业绩预报及业绩预约披露时间，为投资者提供详尽的个股财务业绩明细和利润分配排行等数据" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta http-equiv="refresh" content="1200" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta name="mobile-agent" content="format=html5; url=http://m.data.eastmoney.com/nbjb/zxyj.html"> 
+    <link rel="stylesheet" href="/css_001/page_common.css?201607051831" type="text/css" media="all" />
+    <link rel="stylesheet" href="/css_001/bbsj.css" type="text/css" media="all" />
+    <base target="_blank" />
+    <script>
+        var page_type = "yjbb201712"; //左侧导航链接标识
+    </script>
+    <style>
+        .maincont table.tab1 td {
+            padding-right: 2px!important;
+        }
+    </style>
+<title>
+
+</title></head>
+<body>
+    <!-- 微信分享img -->
+    <img id='weixin-share' src="http://wap.eastmoney.com/weixin-share.png" />
+    <div class="adFrame1000">
+        <script type="text/javascript">
+            if (Math.random() < 0.25)
+                document.write('<iframe width="1000" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1082&op=1"></iframe>');
+            else
+                document.write('<iframe width="1000" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://fundact.eastmoney.com/banner/hqb_hq.html?spm=100004.sbb"></iframe>');
+        </script>
+    </div>
+
+    <div id="page" class="page">
+        <div class="header">
+            <div class="nav">
+                <ul>
+                    <li><a href="http://finance.eastmoney.com/">财经</a></li>
+                    <li><a href="http://finance.eastmoney.com/yaowen.html">要闻</a></li>
+                    <li><a href="http://stock.eastmoney.com/">股票</a></li>
+                    <li><span class="red"><a href="http://stock.eastmoney.com/newstock.html">新股</a></span></li>
+                    <li><a href="http://stock.eastmoney.com/gzqh.html">期指</a></li>
+                    <li><a href="http://option.eastmoney.com/">期权</a></li>
+                    <li><span class="red"><a href="http://quote.eastmoney.com/flash/sz300059.html">行情</a></span></li>
+                    <li><a href="http://data.eastmoney.com/">数据</a></li>
+                    <li><a href="http://stock.eastmoney.com/global.html">全球</a></li>
+                    <li><a href="http://stock.eastmoney.com/america.html">美股</a></li>
+                    <li><a href="http://hk.eastmoney.com/">港股</a></li>
+                    <li><a href="http://futures.eastmoney.com/">期货</a></li>
+                    <li><a href="http://forex.eastmoney.com/">外汇</a></li>
+                    <li><a href="http://gold.eastmoney.com">黄金</a></li>
+                    <li><a href="http://bank.eastmoney.com/">银行</a></li>
+                    <li><a href="http://www.1234567.com.cn/">基金</a></li>
+                    <li><a href="http://money.eastmoney.com/">理财</a></li>
+                    <li><a href="http://insurance.eastmoney.com/">保险</a></li>
+                    <li><a href="http://bond.eastmoney.com/">债券</a></li>
+                    <li><a href="http://video.eastmoney.com/">视频</a></li>
+                    <li><span class="red"><a href="http://guba.eastmoney.com/">股吧</a></span></li>
+                    <li><a href="http://fund2.eastmoney.com/">基金吧</a></li>
+                    <li><a href="http://blog.eastmoney.com/">博客</a></li>
+                    <li><a href="http://so.eastmoney.com/">搜索</a></li>
+                </ul>
+            </div>
+            <div class="advert">
+                <script language="javascript" type="text/javascript" src="http://same.eastmoney.com/s?z=eastmoney&c=1312"></script>
+            </div>
+            <div class="picker">
+                <div class="logo_img">
+                    <a target="_blank" href="http://www.eastmoney.com">
+                        <img src="/images/logo_new.gif" alt="" />
+                    </a>
+                    <a target="_blank" href="http://data.eastmoney.com/center/">
+                        <img src="/images/data_logo.png" alt="" />
+                    </a>
+                </div>
+                <div class="expand">
+                    <span><b class="icon globle"></b><a target="_blank" href="http://kuaixun.eastmoney.com/">全球财经快讯</a></span>
+                    <span><b class="icon quote"></b><a target="_blank" href="http://quote.eastmoney.com/center/">行情中心</a></span>
+                    <span><b class="icon data"></b><a target="_blank" href="http://js5.eastmoney.com/tg.aspx?ID=953">Choice数据</a></span>
+                </div>
+                <div id="Header_tj_Bull" class="remark">
+                    <div class="inp-search">
+                        <div class="inp-txt-wrap" style="position:relative;z-index:1001;">
+                            <form action="" method="get" target="_blank">
+                                <input type="text" maxlength="40" class="inp-txt" name="StockCode_bar" id="StockCode_bar" autocomplete="off"/>
+                                <input type="submit"  value="搜索" class="btnNew" />
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="lableBox">
+                <div class="inner"><dl class=""><dt><a href="http://data.eastmoney.com/center/" >特色</a></dt><dd><a href="http://data.eastmoney.com/stock/lhb.html" >龙虎榜单</a><a href="http://data.eastmoney.com/rzrq/" >融资融券</a><a href="http://data.eastmoney.com/gsrl/default.html" >股市日历</a><a href="http://data.eastmoney.com/dzjy/default.html" >大宗交易</a><a href="http://data.eastmoney.com/jgdy/" >机构调研</a><a href="http://data.eastmoney.com/IF/Data/Contract.html?va=IF" >期指持仓</a><a href="http://data.eastmoney.com/notices/" >公告大全</a><a href="http://data.eastmoney.com/xuangu/" >选股器</a></dd></dl><dl class=""><dt><a href="http://data.eastmoney.com/bbsj/" >财报</a></dt><dd><a href="http://data.eastmoney.com/bbsj/" >业绩报表</a><a href="http://data.eastmoney.com/bbsj/201803/yjyg.html" >最新预告</a><a href="http://data.eastmoney.com/yjfp/" >分红送配</a></dd></dl><dl class=""><dt><a href="http://data.eastmoney.com/report/" >研报</a></dt><dd><a href="http://data.eastmoney.com/report/" >个股研报</a><a href="http://data.eastmoney.com/report/hyyb.html" >行业研报</a><a href="http://data.eastmoney.com/report/ylyc.html" >盈利预测</a></dd></dl><dl class="dlClearfix"><dt><a href="http://data.eastmoney.com/xg/" >新股</a></dt><dd><a href="http://data.eastmoney.com/xg/xg/default.html" >新股申购</a><a href="http://data.eastmoney.com/xg/xg/calendar.html" >新股日历</a><a href="http://data.eastmoney.com/xg/gh/default.html" >新股上会</a></dd></dl><dl class=""><dt><a href="http://data.eastmoney.com/zjlx/" >资金</a></dt><dd><a href="http://data.eastmoney.com/zjlx/dpzjlx.html" >大盘资金</a><a href="http://data.eastmoney.com/zjlx/detail.html" >个股资金</a><a href="http://data.eastmoney.com/bkzj/" >板块资金</a><a href="http://data.eastmoney.com/bkzj/hgt.html" >沪港通</a></dd></dl><dl class=""><dt><a href="http://fund.eastmoney.com/data/" >基金</a></dt><dd><a href="http://fund.eastmoney.com/fund.html" >基金净值</a><a href="http://fund.eastmoney.com/fundguzhi.html" >基金估值</a><a href="http://fund.eastmoney.com/data/fundranking.html" >基金排行</a></dd></dl><dl class=""><dt><a href="http://data.eastmoney.com/cjsj/cpi.html" >经济</a></dt><dd><a href="http://data.eastmoney.com/cjsj/cpi.html" >CPI</a><a href="http://data.eastmoney.com/cjsj/ppi.html" >PPI</a><a href="http://data.eastmoney.com/cjsj/pmi.html" >PMI</a><a href="http://data.eastmoney.com/cjsj/gdp.html" >GDP</a><a href="http://data.eastmoney.com/cjsj/yhll.html" >利率</a><a href="http://data.eastmoney.com/cjsj/newhouse.html" >房价</a></dd></dl></div>
+            </div>
+            <div class="centerbox">
+                <h2><i class="icon2" style="margin-top: 1px; margin-left: 8px;"></i><a target="_blank" href="http://quote.eastmoney.com/center/">行情中心</a></h2>
+                <div class="dlable">
+                    <a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=654">指数</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=655">期指</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=3646">期权</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=656">个股</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=657">板块</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=658">排行</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=660">新股</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=661">基金</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=663">港股</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=665">美股</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=666">期货</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=667">外汇</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=668">黄金</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=669">自选股</a>|<a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=670">自选基金</a>
+                </div>
+            </div>
+        </div>
+        <div class="main">
+            <div class="vnav">
+                <div class="navtop">
+                </div>
+                <div class="navbody">
+                    <div class="qjbox">
+                        <span>
+                            <h2>
+                                <a id="alllink">数据全景图</a><img src="/images/sjqjt.gif" class="sjqjt_img" />
+                            </h2>
+                        </span>
+                        <div class="navview">
+                            <div class="nbox"><dl class="first"><dt><a href="http://data.eastmoney.com/stock/lhb.html">特色数据</a></dt><dd><span class="left_nav_span red"><a href="http://data.eastmoney.com/stock/lhb.html">龙虎榜单</a></span><a href="http://data.eastmoney.com/rzrq/">融资融券</a><a href="http://data.eastmoney.com/stockcomment/">千股千评</a><a href="http://data.eastmoney.com/tfpxx/">停复牌信息</a><a href="http://data.eastmoney.com/xuangu/">选股器</a><a href="http://data.eastmoney.com/dzjy/default.html">大宗交易</a><a href="http://data.eastmoney.com/notices/">公告大全</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/jgdy/">机构调研</a></span><a href="http://data.eastmoney.com/cjrl/default.html">财经日历</a><a href="http://data.eastmoney.com/gsrl/default.html">股市日历</a><a href="http://data.eastmoney.com/IF/Data/Contract.html?va=IF">股指期货持仓</a><a href="http://data.eastmoney.com/invest/invest/default.html">分析师指数</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/executive/gdzjc.html">股东增减持</a></span><a href="http://data.eastmoney.com/executive/">高管持股</a><a href="http://data.eastmoney.com/dxf/default.html">限售解禁</a><a href="http://data.eastmoney.com/gdhs/">股东户数</a><a href="http://data.eastmoney.com/zlsj/">主力数据</a><a href="http://data.eastmoney.com/Contract/Data/Contracttf.html?va=T">国债期货持仓</a><a href="http://quote.eastmoney.com/center/list.html#absh_0_4">AB股比价</a><a href="http://quote.eastmoney.com/center/list.html#ah_1">AH股比价</a><a href="http://data.eastmoney.com/cjsj/bankTransfer.html">交易结算资金</a><a href="http://data.eastmoney.com/cjsj/yzgptjnew.html">股票账户</a><a href="http://data.eastmoney.com/cjsj/gpjytj.html">股票统计</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/other/qsjy.html">券商业绩月报</a></span></dd></dl><dl><dt><a href="http://data.eastmoney.com/zjlx/">资金流向</a></dt><dd><a href="http://data.eastmoney.com/zjlx/dpzjlx.html">大盘资金流</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/zjlx/detail.html">个股资金流</a></span><a href="http://data.eastmoney.com/zjlx/list.html">主力排名</a><a href="http://data.eastmoney.com/bkzj/">板块资金</a><a href="http://data.eastmoney.com/bkzj/hy.html">行业资金流</a><a href="http://data.eastmoney.com/bkzj/gn.html">概念资金流</a><a href="http://data.eastmoney.com/bkzj/dy.html">地域资金流</a><a href="http://data.eastmoney.com/bkzj/jlr.html">资金流检测</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/hsgt/index.html">沪深港通资金</a></span><a href="http://data.eastmoney.com/hsgt/top10.html">沪深港通成交榜</a></dd></dl><dl><dt><a href="http://data.eastmoney.com/xg/">新股数据</a></dt><dd><span class="left_nav_span red"><a href="http://data.eastmoney.com/xg/xg/default.html">新股申购</a></span><a href="http://data.eastmoney.com/xg/xg/calendar.html">新股日历</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/xg/gh/default.html">新股上会</a></span><a href="http://data.eastmoney.com/xg/xg/sbqy.html">首发申报信息</a><a href="http://data.eastmoney.com/xg/xg/chart/zql.html">新股解析</a><a href="http://data.eastmoney.com/other/gkzf.html">增发</a><a href="http://data.eastmoney.com/zrz/pg.html">配股</a><a href="http://data.eastmoney.com/kzz/default.html">可转债</a></dd></dl><dl><dt><a href="http://data.eastmoney.com/report/">研究报告</a></dt><dd><span class="left_nav_span red"><a href="http://data.eastmoney.com/report/">个股研报</a></span><a href="http://data.eastmoney.com/report/xg.html">新股研报</a><a href="http://data.eastmoney.com/report/ylyc.html">盈利预测</a><a href="http://data.eastmoney.com/report/hyyb.html">行业研报</a><a href="http://data.eastmoney.com/report/clbg.html">策略报告</a><a href="http://data.eastmoney.com/report/qsch.html">券商晨会</a><a href="http://data.eastmoney.com/report/hgyj.html">宏观研究</a></dd></dl><dl><dt><a href="http://data.eastmoney.com/bbsj/">年报季报</a></dt><dd><span class="left_nav_span red"><a href="http://data.eastmoney.com/bbsj/201709.html">2017三季报</a></span><a href="http://data.eastmoney.com/bbsj/201706.html">2017中报</a><a href="http://data.eastmoney.com/bbsj/201703.html">2017一季报</a><a href="http://data.eastmoney.com/bbsj/201612.html">2016年报</a><a href="http://data.eastmoney.com/bbsj/201609.html">2016三季报</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/yjfp/">分红送配</a></span></dd></dl><dl><dt><a href="http://data.eastmoney.com/futures/sh/data.html">期货期权</a></dt><dd><a href="http://data.eastmoney.com/futures/sh/data.html">期货龙虎榜</a><a href="http://data.eastmoney.com/ifdata/kcsj.html">期货库存</a><a href="http://data.eastmoney.com/pmetal/comex/by.html">COMEX库存</a><a href="http://data.eastmoney.com/pmetal/cftc/baiyin.html">CFTC持仓</a><a href="http://data.eastmoney.com/pmetal/etf/by.html">ETF持仓</a><a href="http://data.eastmoney.com/ifdata/xhgp.html">现货与股票</a><a href="http://data.eastmoney.com/ifdata/jcjz.html">期货价差矩阵</a><a href="http://data.eastmoney.com/tf/tf.html">可交割国债</a><a href="http://data.eastmoney.com/other/qqlhb.html">期权龙虎榜单</a><a href="http://data.eastmoney.com/other/valueAnal.html">期权价值分析</a><a href="http://data.eastmoney.com/other/riskanal.html">期权风险分析</a><a href="http://data.eastmoney.com/other/premium.html">期权折溢价</a></dd></dl><dl><dt><a href="http://data.eastmoney.com/cjsj/cpi.html">经济数据</a></dt><dd><a href="http://data.eastmoney.com/cjsj/cpi.html">CPI</a><a href="http://data.eastmoney.com/cjsj/ppi.html">PPI</a><a href="http://data.eastmoney.com/cjsj/pmi.html">PMI</a><a href="http://data.eastmoney.com/cjsj/gdp.html">GDP</a><a href="http://data.eastmoney.com/cjsj/yhll.html">中国基准利率</a><a href="http://data.eastmoney.com/cjsj/xzxd.html">新增贷款</a><a href="http://data.eastmoney.com/cjsj/ckzbj.html">存款准备金率</a><a href="http://data.eastmoney.com/cjsj/hbgyl.html">货币供应量</a><a href="http://data.eastmoney.com/cjsj/newhouse.html">房价指数</a><a href="http://data.eastmoney.com/cjsj/foreign_0_0.html">美国经济数据</a><a href="http://data.eastmoney.com/cjsj/foreign_1_0.html">德国经济数据</a><a href="http://data.eastmoney.com/cjsj/foreign_3_0.html">日本经济数据</a><a href="http://data.eastmoney.com/cjsj/foreign_4_0.html">英国经济数据</a><a href="http://data.eastmoney.com/cjsj/foreign_5_0.html">澳大利亚数据</a><a href="http://data.eastmoney.com/cjsj/foreign_7_0.html">加拿大数据</a><a href="http://data.eastmoney.com/cjsj/foreign_6_0.html">欧元区数据</a><a href="http://data.eastmoney.com/cjsj/foreign_8_0.html">香港经济数据</a><span class="left_nav_span red"><a href="http://data.eastmoney.com/cjsj/globalRate.html">全球利率</a></span></dd></dl><dl><dt><a href="http://fund.eastmoney.com/data/">基金数据</a></dt><dd><span class="left_nav_span red"><a href="http://fund.eastmoney.com/data/fundranking.html">基金排行</a></span><a href="http://fund.eastmoney.com/fundguzhi.html">净值估算</a><a href="http://fund.eastmoney.com/fund.html">基金数据</a><a href="http://fund.eastmoney.com/data/fundrating.html">基金评级</a><a href="http://fund.eastmoney.com/fbsjj_dwjz.html">封基折价</a><a href="http://fund.eastmoney.com/data/xinfund.html">新发基金</a><a href="http://fund.eastmoney.com/dingtou/syph_yndt.html">基金定投</a><a href="http://fund.eastmoney.com/data/funddaogou.html">基金导购</a><a href="http://fund.eastmoney.com/data/fundfenhong.html">基金分红</a><a href="http://fund.eastmoney.com/company/default.html">基金公司</a><a href="http://simu.eastmoney.com/data/smranklist.aspx">私募基金</a></dd></dl><dl><dt><a href="http://data.eastmoney.com/money/financial.html">理财数据</a></dt><dd><a href="http://data.eastmoney.com/money/financial.html">人民币理财</a><a href="http://data.eastmoney.com/money/FinancialProducts.aspx?area=&amp;cid=-1&amp;cname=&amp;cuir=2&amp;bt=-1&amp;sale=1&amp;tp=-1&amp;ss=1:false&amp;p=1&amp;ps=25">外币理财产品</a><a href="http://data.eastmoney.com/money/insurance.html">保险产品库</a><a href="http://data.eastmoney.com/money/cdkll.html">银行存贷款利率</a></dd></dl></div>
+                            <div class="nimg">
+                                <div class="tcsj"><h3>推荐数据</h3><a href="http://data.eastmoney.com/stock/lhb.html" >龙虎榜单</a><p>剖析机构席位数据，一览主力操作！</p><a href="http://data.eastmoney.com/executive/gdzjc.html" >股东增减持</a><p>紧盯国家队的最新动向！</p><a href="http://data.eastmoney.com/bkzj/hgt.html" >沪港通资金流</a><p>实时跟踪外资操作的痕迹。</p><a href="http://data.eastmoney.com/cjsj/bankTransfer.html" >银证转账</a><p>真实的资金流入流出数据。</p><a href="http://data.eastmoney.com/xg/xg/default.html" >新股申购</a><p>独家数学模型，预测新股发行价。</p></div>
+                                <div class="tcad">
+                                    <p><a href="http://js5.eastmoney.com/tg.aspx?ID=953" target="_blank">数据支持：东方财富Choice数据>></a></p>
+                                    <p>
+                                        <a href="http://js5.eastmoney.com/tg.aspx?ID=2712" target="_blank">
+                                            <img width="215" height="170" border="0" alt="" src="/images/choice.png" /></a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <ul class="top_ul">
+                        <li class="top_li"><h4><a class="top_a" target="_self" href="/center/" data-page="sjzxsy">首页</a></h4></li><li class="top_li cos"><h4><a class="top_a" target="_self" href="http://data.eastmoney.com/zjlx/" data-page="zjlx">资金流向</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/zjlx/dpzjlx.html" data-page="dpzjl">大盘资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/zjlx/detail.html" data-page="ggzjl">个股资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/zjlx/list.html" data-page="zlpm">主力排名</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bkzj/" data-page="bkzj">板块资金</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bkzj/hy.html" data-page="hyzjl">行业资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bkzj/gn.html" data-page="gnzjl">概念资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bkzj/dy.html" data-page="dyzjl">地域资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bkzj/jlr.html" data-page="zjljc">资金流监测</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/hsgt/index.html" data-page="hsgt">沪深港通资金流</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/hsgt/top10.html" data-page="sdcjg">沪深港通成交榜</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/hsgtcg/" data-page="hsgtcg">沪深港通持股</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_self" href="http://data.eastmoney.com/stock/lhb.html" data-page="tssj">特色数据</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/stock/lhb.html" data-page="lhbd">龙虎榜单</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/rzrq/" data-page="rzrq">融资融券</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/zrt/" data-page="zrt">转融通</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/gstc/" data-page="gstc">公司题材</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/stockcomment/" data-page="qgqp">千股千评</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/tfpxx/" data-page="tfp">停复牌信息</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xuangu/" data-page="xgq">选股器</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/dzjy/default.html" data-page="dzjy">大宗交易</a></li><li class="mid_li cos"><h5><a class="mid_a" target="_self" href="http://data.eastmoney.com/notices/" data-page="ggdq">公告大全</a></h5><ul class="sub_ul"><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/hsa.html" data-page="ggdq_hsa">沪深A股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/sha.html" data-page="ggdq_sha">沪市A股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/sza.html" data-page="ggdq_sza">深主板A股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/zxb.html" data-page="ggdq_zxb">中小板公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/cyb.html" data-page="ggdq_cyb">创业板公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/shb.html" data-page="ggdq_shb">沪市B股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/szb.html" data-page="ggdq_szb">深市B股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/dss.html" data-page="ggdq_dss">待上市A股公告</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://xinsanban.eastmoney.com/Article/NoticeList" data-page="ggdq_sb">三板公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/gg.html" data-page="ggdq_gg">港股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/mg.html" data-page="ggdq_mg">美股公告</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/notices/zq.html" data-page="ggdq_zq">债券公告</a></li></ul></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/yjfp/" data-page="yjfp1">分红送配</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/jgdy/" data-page="jgdy">机构调研</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/gdfx/" data-page="gdfx">股东分析</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/gdhs/" data-page="gdhs">股东户数</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/executive/gdzjc.html" data-page="gdzjc">股东增减持</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/executive/" data-page="ggcg">高管持股</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/gddh/" data-page="gddh">股东大会</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/cjrl/default.html" data-page="cjrl">财经日历</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/gsrl/default.html" data-page="gsrl">股市日历</a></li><li class="mid_li cos"><h5><a class="mid_a" target="_self" href="http://data.eastmoney.com/IF/Data/Contract.html?va=IF" data-page="if">股指期货持仓</a></h5><ul class="sub_ul"><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/IF/Data/Contract.html?va=IF" data-page="if_IF">沪深300期指</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/IF/Data/Contract.html?va=IC" data-page="if_IC">中证500期指</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/IF/Data/Contract.html?va=IH" data-page="if_IH">上证50期指</a></li></ul></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/invest/invest/default.html" data-page="fxs">分析师指数</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/dxf/default.html" data-page="xsjj">限售解禁</a></li><li class="mid_li cos"><h5><a class="mid_a" target="_self" href="http://data.eastmoney.com/zlsj/" data-page="zlsj">主力数据</a></h5><ul class="sub_ul"><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/jj.html" data-page="zlsj_1">基金持仓</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/qfii.html" data-page="zlsj_2">QFII持仓</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/sb.html" data-page="zlsj_3">社保持仓</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/qs.html" data-page="zlsj_4">券商持仓</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/bx.html" data-page="zlsj_5">保险持仓</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/zlsj/xt.html" data-page="zlsj_6">信托持仓</a></li></ul></li><li class="mid_li cos"><h5><a class="mid_a" target="_self" href="http://data.eastmoney.com/Contract/Data/Contracttf.html?va=T" data-page="contract">国债期货持仓</a></h5><ul class="sub_ul"><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/Contract/Data/Contracttf.html?va=T" data-page="contract_T">10年期国债</a></li><li class="sub_li"><a class="sub_a" target="_self" href="http://data.eastmoney.com/Contract/Data/Contracttf.html?va=TF" data-page="contract_TF">5年期国债</a></li></ul></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://quote.eastmoney.com/center/list.html#absh_0_4" data-page="abg">AB股比价</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://quote.eastmoney.com/center/list.html#ah_1" data-page="ahg">AH股比价</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/bankTransfer.html" data-page="jszj">交易结算资金</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/yzgptjnew.html" data-page="gpzh">股票账户</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/gpjytj.html" data-page="gptj">股票统计</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/qsjy.html" data-page="qsyj">券商业绩月报</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_blank" href="http://data.eastmoney.com/xg/" data-page="xgsj">新股数据</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xg/xg/default.html" data-page="xgsg">新股申购</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/kzz/default.html" data-page="kzz">可转债</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xg/xg/calendar.html" data-page="xgrl">新股日历</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xg/gh/default.html" data-page="xgsh">新股上会</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xg/xg/sbqy.html" data-page="sfsb">首发申报信息</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/xg/xg/chart/zql.html" data-page="xgjx">新股解析</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/gkzf.html" data-page="gkzf">增发</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/zrz/pg.html" data-page="pg">配股</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_blank" href="http://data.eastmoney.com/report/" data-page="yjbg">研究报告</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/" data-page="ggyb">个股研报</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/hyyb.html" data-page="hyyb">行业研报</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/ylyc.html" data-page="ylyc">盈利预测</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/clbg.html" data-page="clbg">策略报告</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/qsch.html" data-page="qsch">券商晨会</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/report/hgyj.html" data-page="hgyj">宏观研究</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_self" href="http://data.eastmoney.com/bbsj/" data-page="nbjb">年报季报</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/" data-page="bbsj">最新业绩报表</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/yjfp/" data-page="yjfp">分红送配</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201803/yjbb.html" data-page="yjbb201803">2018一季报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201803/yjkb.html" data-page="yjkb201803">2018一季报快报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201803/yjyg.html" data-page="yjyg201803">2018一季报预告</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201803/yysj.html" data-page="yysj201803">2018一季报预披露</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201712/yjbb.html" data-page="yjbb201712">2017年报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201712/yjkb.html" data-page="yjkb201712">2017年报快报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201712/yjyg.html" data-page="yjyg201712">2017年报预告</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201712/yysj.html" data-page="yysj201712">2017年报预披露</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201709/yjbb.html" data-page="yjbb201709">2017三季报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201706/yjbb.html" data-page="yjbb201706">2017中报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201703/yjbb.html" data-page="yjbb201703">2017一季报</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/bbsj/201612/yjbb.html" data-page="yjbb201612">2016年报</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_self" href="http://data.eastmoney.com/futures/sh/data.html" data-page="qhqq">期货期权</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/futures/sh/data.html" data-page="qhlhb">期货龙虎榜</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/ifdata/kcsj.html" data-page="qhkc">期货库存</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/pmetal/comex/by.html" data-page="comexkc">COMEX库存</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/pmetal/cftc/baiyin.html" data-page="cftccc">CFTC持仓</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/pmetal/etf/by.html" data-page="etfcc">ETF持仓</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/ifdata/xhgp.html" data-page="xhygp">现货与股票</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/ifdata/jcjz.html" data-page="qhjcjz">期货价差矩阵</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/tf/tf.html" data-page="kjggz">可交割国债</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/qqlhb.html" data-page="qqlhbd">期权龙虎榜单</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/valueAnal.html" data-page="qqjzfx">期权价值分析</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/riskanal.html" data-page="qqfxfx">期权风险分析</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/other/premium.html" data-page="qqzyj">期权折溢价</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_blank" href="http://data.eastmoney.com/cjsj/cpi.html" data-page="jjsj">经济数据</a></h4><ul class="mid_ul"><li class="mid_li cos"><h5><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/cpi.html" data-page="zgjjsj">中国经济数据</a></h5><ul class="sub_ul"><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/cpi.html" data-page="cpi">CPI</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/ppi.html" data-page="ppi">PPI</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/pmi.html" data-page="pmi">PMI</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/gdp.html" data-page="gdp">GDP</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/yhll.html" data-page="ll">利率调整</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/xzxd.html" data-page="xzdk">新增贷款</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/ckzbj.html" data-page="ckzbjl">存款准备金率</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/hbgyl.html" data-page="hbgyl">货币供应量</a></li><li class="sub_li"><a class="sub_a" target="_blank" href="http://data.eastmoney.com/cjsj/newhouse.html" data-page="fjzs">房价指数</a></li></ul></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_0_0.html" data-page="mgjjsj">美国经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_1_0.html" data-page="dgjjsj">德国经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_2_0.html" data-page="rsjjsj">瑞士经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_3_0.html" data-page="rbjjsj">日本经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_4_0.html" data-page="ygjjsj">英国经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_5_0.html" data-page="adlyjjsj">澳大利亚经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_7_0.html" data-page="jndjjsj">加拿大经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_6_0.html" data-page="oyqjjsj">欧元区经济数据</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/cjsj/foreign_8_0.html" data-page="xgjjsj">香港经济数据</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/cjsj/hyzs.html" data-page="hyzs">行业指数</a></li><li class="mid_li"><a class="mid_a" target="_self" href="http://data.eastmoney.com/cjsj/globalRate.html" data-page="qqzygjll">全球主要国家利率</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_blank" href="http://fund.eastmoney.com/data/" data-page="jjsj">基金数据</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/data/fundranking.html" data-page="jjph">基金排行</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/fundguzhi.html" data-page="jzgs">净值估算</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/data/fundrating.html" data-page="jjpj">基金评级</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/fbsjj_dwjz.html" data-page="fjzs">封基折价</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/data/xinfund.html" data-page="xfjj">新发基金</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/dingtou/syph_yndt.html" data-page="jjdt">基金定投</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/data/funddaogou.html" data-page="jjdg">基金导购</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/data/fundfenhong.html" data-page="jjfh">基金分红</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://fund.eastmoney.com/company/default.html" data-page="jjgs">基金公司</a></li><li class="mid_li"><a class="mid_a" target="_blank" href="http://simu.eastmoney.com/data/smranklist.aspx" data-page="smjj">私募基金</a></li></ul></li><li class="top_li cos"><h4><a class="top_a" target="_self" href="http://data.eastmoney.com/money/insurance.html" data-page="lcsj">理财数据</a></h4><ul class="mid_ul"><li class="mid_li"><a class="mid_a" target="_blank" href="http://data.eastmoney.com/money/insurance.html" data-page="bxcpk">保险产品库</a></li></ul></li>
+                    </ul>
+                    <script src="/js_001/public_common_tools.js" type="text/javascript"></script>
+                    <script>
+                        setMenuStatus();//初始化左侧菜单
+                    </script>
+
+                </div>
+            </div>
+            <div class="framecontent">
+                <div class="linkNav">
+                    
+    <div id="Column_Navigation">
+        <a href="http://www.eastmoney.com/">东方财富网</a> &gt; <a href="http://data.eastmoney.com/center/">数据中心 </a>&gt; <a href="http://data.eastmoney.com/bbsj/">年报季报</a> &gt; 业绩报表
+    </div>
+    <div class="promotion_link">
+        <b class="arr_01"></b>
+        <ul><li><a href="http://data.eastmoney.com/bbsj/201709/yjyg/3.html" >分配预告</a>&nbsp;<a href="http://data.eastmoney.com/bbsj/201709/yjbb/0/2.html" >每股收益榜</a>&nbsp;<a href="http://data.eastmoney.com/bbsj/201709/yjbb/0/3.html" >营业收入榜</a>&nbsp;<a href="http://data.eastmoney.com/bbsj/201709/yjbb/0/6.html" >净利润榜</a>&nbsp;<a href="http://data.eastmoney.com/bbsj/201709/szbl.html" >送转比例</a>&nbsp;<a href="http://data.eastmoney.com/bbsj/201709/xjfh.html" >现金分红</a></li></ul>
+    </div>
+
+                </div>
+                <div class="sitebody">
+                    
+    <div class="maincont">
+        <div class="contentBox">
+            <div class="titbar" id="datatitle">
+                <b class="el"></b>
+                <div class="tit" id="topTit">
+                    报业绩大全
+                </div>
+                <div class="search" style="float: left; padding-left: 100px;">
+                    <span class="txt">个股业绩报表：</span>
+                    <input class="sinput" name="zjlx_bar" id="zjlx_bar" type="text">
+                    <div onclick="javascript:ggzl_search('zjlx_bar')" class="btn" style="border: none;">
+                        <img src="/images/btn_search_blue.gif" title="查询" />
+                    </div>
+                </div>
+                <div class="favor">
+                    <img src="/images/favor.png" title="收藏本页" onclick="AddFavor();" />
+                </div>
+                <div class="search pr20" style="float: right; padding-left: 5px; padding-right: 5px;">
+                    <span class="sec-txt">截止日期：</span>
+                    <select class="slt" onchange="location.href=this.value;" id="date_type">
+                        <option value="/bbsj/201903/yjbb.html">2019-03-31</option><option value="/bbsj/201812/yjbb.html">2018-12-31</option><option value="/bbsj/201809/yjbb.html">2018-09-30</option><option value="/bbsj/201806/yjbb.html">2018-06-30</option><option value="/bbsj/201803/yjbb.html">2018-03-31</option><option value="/bbsj/201712/yjbb.html" selected="selected">2017-12-31</option><option value="/bbsj/201709/yjbb.html">2017-09-30</option><option value="/bbsj/201706/yjbb.html">2017-06-30</option><option value="/bbsj/201703/yjbb.html">2017-03-31</option><option value="/bbsj/201612/yjbb.html">2016-12-31</option><option value="/bbsj/201609/yjbb.html">2016-09-30</option><option value="/bbsj/201606/yjbb.html">2016-06-30</option><option value="/bbsj/201603/yjbb.html">2016-03-31</option><option value="/bbsj/201512/yjbb.html">2015-12-31</option><option value="/bbsj/201509/yjbb.html">2015-09-30</option><option value="/bbsj/201506/yjbb.html">2015-06-30</option><option value="/bbsj/201503/yjbb.html">2015-03-31</option><option value="/bbsj/201412/yjbb.html">2014-12-31</option><option value="/bbsj/201409/yjbb.html">2014-09-30</option><option value="/bbsj/201406/yjbb.html">2014-06-30</option><option value="/bbsj/201403/yjbb.html">2014-03-31</option><option value="/bbsj/201312/yjbb.html">2013-12-31</option><option value="/bbsj/201309/yjbb.html">2013-09-30</option><option value="/bbsj/201306/yjbb.html">2013-06-30</option><option value="/bbsj/201303/yjbb.html">2013-03-31</option><option value="/bbsj/201212/yjbb.html">2012-12-31</option><option value="/bbsj/201209/yjbb.html">2012-09-30</option><option value="/bbsj/201206/yjbb.html">2012-06-30</option><option value="/bbsj/201203/yjbb.html">2012-03-31</option><option value="/bbsj/201112/yjbb.html">2011-12-31</option><option value="/bbsj/201109/yjbb.html">2011-09-30</option><option value="/bbsj/201106/yjbb.html">2011-06-30</option><option value="/bbsj/201103/yjbb.html">2011-03-31</option><option value="/bbsj/201012/yjbb.html">2010-12-31</option><option value="/bbsj/201009/yjbb.html">2010-09-30</option><option value="/bbsj/201006/yjbb.html">2010-06-30</option><option value="/bbsj/201003/yjbb.html">2010-03-31</option><option value="/bbsj/200912/yjbb.html">2009-12-31</option><option value="/bbsj/200909/yjbb.html">2009-09-30</option><option value="/bbsj/200906/yjbb.html">2009-06-30</option><option value="/bbsj/200903/yjbb.html">2009-03-31</option><option value="/bbsj/200812/yjbb.html">2008-12-31</option><option value="/bbsj/200809/yjbb.html">2008-09-30</option><option value="/bbsj/200806/yjbb.html">2008-06-30</option><option value="/bbsj/200803/yjbb.html">2008-03-31</option><option value="/bbsj/200712/yjbb.html">2007-12-31</option><option value="/bbsj/200709/yjbb.html">2007-09-30</option><option value="/bbsj/200706/yjbb.html">2007-06-30</option><option value="/bbsj/200703/yjbb.html">2007-03-31</option><option value="/bbsj/200612/yjbb.html">2006-12-31</option>
+                    </select>
+                </div>
+
+                <script type="text/javascript">
+                    var zz = new StockSuggest("zjlx_bar", {
+                        text: "输代码、名称或拼音",
+                        type: "ABSTOCK",
+                        autoSubmit: false,
+                        width: 190,
+                        header: ["选项", "代码", "名称", "类型"],
+                        body: [-1, 1, 4, -2],
+                        callback: function (ag) {
+                            var url = '/bbsj/' + ag.code + '.html';
+                            window.open(url);
+                        }
+                    });
+                    function ggzl_search(bb) {
+                        var s1 = document.getElementById(bb).value;
+                        var s = escape(s1);
+                        if (s1 == "输代码、名称或拼音" || s1 == "" || isNaN(parseInt(s1)) || s1.length != 6) {
+                            alert("请输入所查询股票的代码！");
+                            return false;
+                        } else {
+                            var url = '/bbsj/' + s1 + '.html';
+                            window.open(url);
+                        }
+                    }
+                </script>
+            </div>
+            <div class="sepe">
+                <div class="left">
+                </div>
+                <div class="right">
+                </div>
+            </div>
+            <div class="content" style="min-height: 400px;">
+                <div class="tipsdiv">
+                    <div style="float: left;">
+                        &nbsp;&nbsp;注：所载数据仅供参考，不对您构成任何投资建议，据此操作，风险自担。
+                    </div>
+                </div>
+                <div class="catemk">
+                    <ul>
+                        <li class="at">业绩报表</li>
+                        <li id="yjkbTab">业绩快报</li>
+                        <li id="yjygTab">业绩预告</li>
+                        <li id="yysjTab">预约披露时间</li>
+                    </ul>
+                    <div class="right_ad">
+                        <a href="http://js5.eastmoney.com/tg.aspx?ID=2745" class="red" target="_blank">第一时间掌握年度业绩报表，点击查看</a>
+                    </div>
+                </div>
+                <div class="cateday cateday1 clearfix">
+                    <div class="cateday_cont1 cateday_cont">
+                        <div class="filter_tit">市场</div>
+                        <ul id="filter" class="filter_ul">
+                            <li class="at2" data="(reportdate=^2017-12-31^)(securitytypecode in ('058001001','058001002'))"><a>全部</a><i></i></li>
+                            <li data="(reportdate=^2017-12-31^)(securitytypecode='058001001')"><a>沪深A股</a><i></i></li>
+                            <li data="(reportdate=^2017-12-31^)(securitytypecode='058001001')(trademarketcode in ('069001001001','069001001003'))"><a>沪市A股</a><i></i></li>
+                            <li data="(reportdate=^2017-12-31^)(securitytypecode='058001001')(trademarketcode='069001002001')"><a>深主板A股</a><i></i></li>
+                            <li data="(reportdate=^2017-12-31^)(securitytypecode='058001001')(trademarketcode='069001002002')" class="last_li"><a>创业板</a><i></i></li>
+                        </ul>
+                        <div class="filter_more">
+                            <span>更多>></span>
+                            <ul class="hover_ul">
+                                <li data="(reportdate=^2017-12-31^)(securitytypecode='058001001')(trademarketcode='069001002003')"><a>中小板</a></li>
+                                <li data="(reportdate=^2017-12-31^)(trademarketcode in ('069001001003','069001002005'))"><a>ST板</a></li>
+                                <li data="(reportdate=^2017-12-31^)(securitytypecode='058001002')"><a>B股</a></li>
+                                <li data="(reportdate=^2017-12-31^)(securitytypecode='058001005')"><a>三板</a></li>  
+                            </ul>
+                        </div>
+                    </div>
+
+                 
+
+<div class="cateday_cont2 cateday_cont">
+        <div class="filter_tit">行业</div>
+        <ul id="filter_hy" class="filter_ul">
+            <li data='' class='at2'><a>全部</a><i></i></li><li data="(publishname='%e6%9c%ba%e6%a2%b0%e8%a1%8c%e4%b8%9a')" class='' szm='J' ><a>机械行业</a><i></i></li><li data="(publishname='%e5%8c%bb%e8%8d%af%e5%88%b6%e9%80%a0')" class='' szm='Y' ><a>医药制造</a><i></i></li><li data="(publishname='%e7%94%b5%e5%ad%90%e5%85%83%e4%bb%b6')" class='' szm='D' ><a>电子元件</a><i></i></li><li data="(publishname='%e5%8c%96%e5%b7%a5%e8%a1%8c%e4%b8%9a')" class='last_li' szm='H' ><a>化工行业</a><i></i></li>
+        </ul>
+        <div class="filter_more">
+            <span>更多>></span>
+            <ul class="hover_ul">
+                <li class='A'><b>A</b></li><li data="(publishname='%e5%ae%89%e9%98%b2%e8%ae%be%e5%a4%87')" szm='A' class='liA'><a>安防设备</a></li><li class='B'><b>B</b></li><li data="(publishname='%e5%8c%85%e8%a3%85%e6%9d%90%e6%96%99')" szm='B' class='liB'><a>包装材料</a></li><li data="(publishname='%e4%bf%9d%e9%99%a9')" szm='B' class='liB'><a>保险</a></li><li data="(publishname='%e7%8e%bb%e7%92%83%e9%99%b6%e7%93%b7')" szm='B' class='liB'><a>玻璃陶瓷</a></li><li class='C'><b>C</b></li><li data="(publishname='%e6%9d%90%e6%96%99%e8%a1%8c%e4%b8%9a')" szm='C' class='liC'><a>材料行业</a></li><li data="(publishname='%e8%88%b9%e8%88%b6%e5%88%b6%e9%80%a0')" szm='C' class='liC'><a>船舶制造</a></li><li class='D'><b>D</b></li><li data="(publishname='%e5%a4%9a%e5%85%83%e9%87%91%e8%9e%8d')" szm='D' class='liD'><a>多元金融</a></li><li data="(publishname='%e7%94%b5%e5%8a%9b%e8%a1%8c%e4%b8%9a')" szm='D' class='liD'><a>电力行业</a></li><li data="(publishname='%e7%94%b5%e5%ad%90%e4%bf%a1%e6%81%af')" szm='D' class='liD'><a>电子信息</a></li><li data="(publishname='%e7%94%b5%e4%bf%a1%e8%bf%90%e8%90%a5')" szm='D' class='liD'><a>电信运营</a></li><li class='F'><b>F</b></li><li data="(publishname='%e6%88%bf%e5%9c%b0%e4%ba%a7')" szm='F' class='liF'><a>房地产</a></li><li data="(publishname='%e7%ba%ba%e7%bb%87%e6%9c%8d%e8%a3%85')" szm='F' class='liF'><a>纺织服装</a></li><li class='G'><b>G</b></li><li data="(publishname='%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af')" szm='G' class='liG'><a>高速公路</a></li><li data="(publishname='%e5%b7%a5%e8%89%ba%e5%95%86%e5%93%81')" szm='G' class='liG'><a>工艺商品</a></li><li data="(publishname='%e5%9b%bd%e9%99%85%e8%b4%b8%e6%98%93')" szm='G' class='liG'><a>国际贸易</a></li><li data="(publishname='%e5%85%ac%e7%94%a8%e4%ba%8b%e4%b8%9a')" szm='G' class='liG'><a>公用事业</a></li><li data="(publishname='%e5%b7%a5%e7%a8%8b%e5%bb%ba%e8%ae%be')" szm='G' class='liG'><a>工程建设</a></li><li data="(publishname='%e6%b8%af%e5%8f%a3%e6%b0%b4%e8%bf%90')" szm='G' class='liG'><a>港口水运</a></li><li data="(publishname='%e9%92%a2%e9%93%81%e8%a1%8c%e4%b8%9a')" szm='G' class='liG'><a>钢铁行业</a></li><li data="(publishname='%e8%b4%b5%e9%87%91%e5%b1%9e')" szm='G' class='liG'><a>贵金属</a></li><li class='H'><b>H</b></li><li data="(publishname='%e7%8e%af%e4%bf%9d%e5%b7%a5%e7%a8%8b')" szm='H' class='liH'><a>环保工程</a></li><li data="(publishname='%e5%8c%96%e8%82%a5%e8%a1%8c%e4%b8%9a')" szm='H' class='liH'><a>化肥行业</a></li><li data="(publishname='%e8%88%aa%e5%a4%a9%e8%88%aa%e7%a9%ba')" szm='H' class='liH'><a>航天航空</a></li><li data="(publishname='%e5%8c%96%e7%ba%a4%e8%a1%8c%e4%b8%9a')" szm='H' class='liH'><a>化纤行业</a></li><li class='J'><b>J</b></li><li data="(publishname='%e9%87%91%e5%b1%9e%e5%88%b6%e5%93%81')" szm='J' class='liJ'><a>金属制品</a></li><li data="(publishname='%e4%ba%a4%e8%bf%90%e8%ae%be%e5%a4%87')" szm='J' class='liJ'><a>交运设备</a></li><li data="(publishname='%e5%ae%b6%e7%94%b5%e8%a1%8c%e4%b8%9a')" szm='J' class='liJ'><a>家电行业</a></li><li data="(publishname='%e4%ba%a4%e8%bf%90%e7%89%a9%e6%b5%81')" szm='J' class='liJ'><a>交运物流</a></li><li class='L'><b>L</b></li><li data="(publishname='%e6%97%85%e6%b8%b8%e9%85%92%e5%ba%97')" szm='L' class='liL'><a>旅游酒店</a></li><li class='M'><b>M</b></li><li data="(publishname='%e6%b0%91%e8%88%aa%e6%9c%ba%e5%9c%ba')" szm='M' class='liM'><a>民航机场</a></li><li data="(publishname='%e6%9c%a8%e4%b8%9a%e5%ae%b6%e5%85%b7')" szm='M' class='liM'><a>木业家具</a></li><li data="(publishname='%e7%85%a4%e7%82%ad%e9%87%87%e9%80%89')" szm='M' class='liM'><a>煤炭采选</a></li><li class='N'><b>N</b></li><li data="(publishname='%e5%86%9c%e8%8d%af%e5%85%bd%e8%8d%af')" szm='N' class='liN'><a>农药兽药</a></li><li data="(publishname='%e5%86%9c%e7%89%a7%e9%a5%b2%e6%b8%94')" szm='N' class='liN'><a>农牧饲渔</a></li><li data="(publishname='%e9%85%bf%e9%85%92%e8%a1%8c%e4%b8%9a')" szm='N' class='liN'><a>酿酒行业</a></li><li class='Q'><b>Q</b></li><li data="(publishname='%e5%88%b8%e5%95%86%e4%bf%a1%e6%89%98')" szm='Q' class='liQ'><a>券商信托</a></li><li data="(publishname='%e6%b1%bd%e8%bd%a6%e8%a1%8c%e4%b8%9a')" szm='Q' class='liQ'><a>汽车行业</a></li><li class='R'><b>R</b></li><li data="(publishname='%e8%bd%af%e4%bb%b6%e6%9c%8d%e5%8a%a1')" szm='R' class='liR'><a>软件服务</a></li><li class='S'><b>S</b></li><li data="(publishname='%e5%a1%91%e8%83%b6%e5%88%b6%e5%93%81')" szm='S' class='liS'><a>塑胶制品</a></li><li data="(publishname='%e7%9f%b3%e6%b2%b9%e8%a1%8c%e4%b8%9a')" szm='S' class='liS'><a>石油行业</a></li><li data="(publishname='%e8%be%93%e9%85%8d%e7%94%b5%e6%b0%94')" szm='S' class='liS'><a>输配电气</a></li><li data="(publishname='%e6%b0%b4%e6%b3%a5%e5%bb%ba%e6%9d%90')" szm='S' class='liS'><a>水泥建材</a></li><li data="(publishname='%e9%a3%9f%e5%93%81%e9%a5%ae%e6%96%99')" szm='S' class='liS'><a>食品饮料</a></li><li data="(publishname='%e5%95%86%e4%b8%9a%e7%99%be%e8%b4%a7')" szm='S' class='liS'><a>商业百货</a></li><li class='T'><b>T</b></li><li data="(publishname='%e9%80%9a%e8%ae%af%e8%a1%8c%e4%b8%9a')" szm='T' class='liT'><a>通讯行业</a></li><li class='W'><b>W</b></li><li data="(publishname='%e6%96%87%e6%95%99%e4%bc%91%e9%97%b2')" szm='W' class='liW'><a>文教休闲</a></li><li data="(publishname='%e6%96%87%e5%8c%96%e4%bc%a0%e5%aa%92')" szm='W' class='liW'><a>文化传媒</a></li><li class='Y'><b>Y</b></li><li data="(publishname='%e4%bb%aa%e5%99%a8%e4%bb%aa%e8%a1%a8')" szm='Y' class='liY'><a>仪器仪表</a></li><li data="(publishname='%e9%93%b6%e8%a1%8c')" szm='Y' class='liY'><a>银行</a></li><li data="(publishname='%e6%9c%89%e8%89%b2%e9%87%91%e5%b1%9e')" szm='Y' class='liY'><a>有色金属</a></li><li data="(publishname='%e5%9b%ad%e6%9e%97%e5%b7%a5%e7%a8%8b')" szm='Y' class='liY'><a>园林工程</a></li><li data="(publishname='%e5%8c%bb%e7%96%97%e8%a1%8c%e4%b8%9a')" szm='Y' class='liY'><a>医疗行业</a></li><li class='Z'><b>Z</b></li><li data="(publishname='%e7%8f%a0%e5%ae%9d%e9%a6%96%e9%a5%b0')" szm='Z' class='liZ'><a>珠宝首饰</a></li><li data="(publishname='%e9%80%a0%e7%ba%b8%e5%8d%b0%e5%88%b7')" szm='Z' class='liZ'><a>造纸印刷</a></li><li data="(publishname='%e7%bb%bc%e5%90%88%e8%a1%8c%e4%b8%9a')" szm='Z' class='liZ'><a>综合行业</a></li><li data="(publishname='%e4%b8%93%e7%94%a8%e8%ae%be%e5%a4%87')" szm='Z' class='liZ'><a>专用设备</a></li><li data="(publishname='%e8%a3%85%e4%bf%ae%e8%a3%85%e9%a5%b0')" szm='Z' class='liZ'><a>装修装饰</a></li>
+            </ul>
+        </div>
+    </div>
+                   
+                </div>
+                <table cellpadding="0" cellspacing="0" class="tab1" id="dt_1">
+                    <thead class="h101">
+                        <tr>
+                            <th>加载中......
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div id="PageNav" class="PageNav" style="display: none;">
+                <div class="Page" id="PageCont">
+                </div>
+            </div>
+        </div>
+    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="mainFrame" style="width: 1000px; padding-top: 30px;">
+            <div class="footer_top">
+                数据来源：<a href="http://js5.eastmoney.com/tg.aspx?ID=953" style="color: #00298F;">东方财富Choice数据</a>
+                <br />
+            </div>
+
+            <div class="footer" style="border-top: 0px;">
+                <div style="line-height: 20px;">
+                    <b>郑重声明：</b>东方财富网发布此信息目的在于传播更多信息，与本网站立场无关。东方财富网不保证该信息（包括但不限于文字、数据及图表）全部或者部分内容的准确性、真实性、完整性、有效性、及时性、原创性等。相关信息并未经过本网站证实，不对您构成任何投资建议，据此操作，风险自担。
+                </div>
+                <iframe width="1000" height="314" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://emres.dfcfw.com/public/footer-1000-iframe.html"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="http://emres.dfcfw.com/public/js/topnav.js" type="text/javascript"></script>
+    <script src="http://hqres.eastmoney.com/EMQuote_Lib/js/qphf.js?r4900" charset="gbk" type="text/javascript"></script>
+    <script src="/js_001/master.js" charset="gbk" type="text/javascript"></script>
+
+    
+    <script type="text/javascript" src="/js_001/bbsj/common.js?201607061330"></script>
+    <script type="text/javascript" src="/js_001/load_table_data.js?201607061330"></script>
+
+    <script type="text/javascript">
+        var cellCount = 0;
+        //var reportdate = "2017-12-31";
+        resetSlt("cateday_cont2","true");
+        resetSlt("cateday_cont1");
+        function editThead() {
+            //865
+            var thead = '[{ "n": "序号","w":28 },{ "n": "股票代码", "s": "scode" ,"w":50}, { "n": "股票简称", "w": 55 }, { "n": "相关资料", "w": 60 }, { "n": "每股收<br />益(元)", "s": "basiceps" ,"w": 48 },';//258
+            thead += '{ "n": "营业收入",cells:[{"n": "营业收入(元)","s": "totaloperatereve","w":48 },{"n": "同比增长<br />(%)","s": "ystz","w":48 },{"n": "季度环比<br />增长(%)","s": "yshz","w":48 }] ,"w":150 },';
+            thead += '{ "n": "净利润",cells:[{"n": "净利润(元)","s": "parentnetprofit","w":50 },{"n": "同比增长<br />(%)","s": "sjltz","w":50 },{"n": "季度环比<br />增长(%)","s": "sjlhz","w":50 }] ,"w":155 },';
+            thead += '{"n": "每股<br />净资产<br />(元)", "s": "bps" ,"w":50},{"n": "净资产<br />收益率<br />(%)", "s": "roeweighted" ,"w":46},{"n": "每股经营<br />现金流量<br />(元)", "s": "mgjyxjje" ,"w":50},{"n": "销售<br />毛利率<br />(%)", "s": "xsmll" ,"w":40},';
+            var dateStr = "201712" || "201412";
+            if (dateStr.indexOf("12") == -1 && dateStr.indexOf("06") == -1) {
+                thead += '{"n": "首次<br />公告<br />日期", "s": "firstnoticedate" ,"w":40},{"n": "最新<br/>公告<br />日期", "s": "latestnoticedate" ,"w":40}]';
+                cellCount = 17;
+            } else {
+                thead += '{"n": "利润分配"},{"n": "首次<br />公告<br />日期", "s": "firstnoticedate" ,"w":36},{"n": "最新<br/>公告<br />日期", "s": "latestnoticedate","w":36}]';//865-18
+                cellCount = 18;
+            }
+            return thead;
+        }
+        var tablelist = new LoadTable({
+            id: "dt_1",
+            sort: { id: "latestnoticedate", desc: true },
+            cellcount: cellCount, 
+            param: getParam(),           
+            //param: { "filter": { cname: "li", type: "filter", value: "(reportdate=^2017-12-31^)", cssclass: "at2" } },
+            cells: eval('(' + editThead() + ')'),
+            dataurl: "http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type=YJBB20_YJBB&token=70f12f2f4f091e459a279469fe49eca5&st={sortType}&sr={sortRule}&p={page}&ps={pageSize}&js=var {jsname}={pages:(tp),data: (x)}{param}",
+            defjson: {pages:32,data: [{"scode":"603868","sname":"飞科电器","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.92,"cutbasiceps":1.81,"totaloperatereve":3853428857.37,"ystz":14.55259635,"yshz":26.4965,"parentnetprofit":835347637.79,"sjltz":36.22067841,"sjlhz":6.6233,"roeweighted":38.42,"bps":5.53304626,"mgjyxjje":1.97095707,"xsmll":39.32412057,"publishname":"家电行业","assigndscrpt":"10派15.00元(含税)","gxl":0.0265580736543909,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002800","sname":"天顺股份","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.55,"cutbasiceps":0.44,"totaloperatereve":1017140994.03,"ystz":84.96644785,"yshz":-77.8632,"parentnetprofit":41224557.26,"sjltz":16.33933038,"sjlhz":-68.7681,"roeweighted":9.53,"bps":5.96739867,"mgjyxjje":-0.97331206,"xsmll":10.65920859,"publishname":"交运物流","assigndscrpt":"10派1.20元(含税)","gxl":0.0044543429844098,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"603997","sname":"继峰股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.46,"cutbasiceps":0.45,"totaloperatereve":1902072096.69,"ystz":29.78927714,"yshz":32.3638,"parentnetprofit":292847117.03,"sjltz":17.27401549,"sjlhz":-4.4284,"roeweighted":18.11,"bps":2.735081,"mgjyxjje":0.40889969,"xsmll":32.99799978,"publishname":"汽车行业","assigndscrpt":"10派2.80元(含税)","gxl":0.0226904376012966,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600023","sname":"浙能电力","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.32,"cutbasiceps":0.31,"totaloperatereve":51190754896.92,"ystz":30.66645703,"yshz":-9.0109,"parentnetprofit":4334460539.61,"sjltz":-30.33628465,"sjlhz":-59.561,"roeweighted":7.24,"bps":4.46875439,"mgjyxjje":0.73425664,"xsmll":11.73541034,"publishname":"电力行业","assigndscrpt":"10派1.70元(含税)","gxl":0.0313075506445672,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002690","sname":"美亚光电","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.5394,"cutbasiceps":0.4803,"totaloperatereve":1093940166.36,"ystz":21.39061064,"yshz":-2.7777,"parentnetprofit":364665064.5,"sjltz":17.88742694,"sjlhz":-13.824,"roeweighted":17.38,"bps":3.24902147,"mgjyxjje":0.65343369,"xsmll":53.20585218,"publishname":"专用设备","assigndscrpt":"10派5.00元(含税)","gxl":0.0255754475703325,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002376","sname":"新北洋","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.45,"cutbasiceps":0.43,"totaloperatereve":1860430726.59,"ystz":13.78633164,"yshz":23.9201,"parentnetprofit":286431832.95,"sjltz":26.11108713,"sjlhz":65.0768,"roeweighted":11.59,"bps":4.07967856,"mgjyxjje":0.66930382,"xsmll":44.07049091,"publishname":"电子信息","assigndscrpt":"10派2.00元(含税)","gxl":0.0124223602484472,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000929","sname":"兰州黄河","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.0874,"cutbasiceps":0.0238,"totaloperatereve":596118026.56,"ystz":-12.00809768,"yshz":-48.5745,"parentnetprofit":16235994.95,"sjltz":164.70165151,"sjlhz":-136.0984,"roeweighted":2.2,"bps":3.9467706,"mgjyxjje":0.14698181,"xsmll":24.84455962,"publishname":"酿酒行业","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002494","sname":"华斯股份","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":-0.2,"cutbasiceps":-0.21,"totaloperatereve":633958377.28,"ystz":26.3622193,"yshz":-19.7825,"parentnetprofit":-75446522.59,"sjltz":-600.80088683,"sjlhz":-1882.5982,"roeweighted":-3.86,"bps":4.96020075,"mgjyxjje":0.58450052,"xsmll":24.55839584,"publishname":"纺织服装","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002433","sname":"太安堂","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.38,"cutbasiceps":0.32,"totaloperatereve":3238940560.41,"ystz":5.31614389,"yshz":60.9092,"parentnetprofit":290398637.48,"sjltz":19.34470525,"sjlhz":-7.5393,"roeweighted":6.09,"bps":6.38901522,"mgjyxjje":0.10007761,"xsmll":29.92594845,"publishname":"医药制造","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002361","sname":"神剑股份","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.14,"cutbasiceps":0.14,"totaloperatereve":1827986378.03,"ystz":29.35488402,"yshz":15.1133,"parentnetprofit":124436018.66,"sjltz":-26.33187204,"sjlhz":53.5364,"roeweighted":6.46,"bps":2.23818157,"mgjyxjje":-0.21405367,"xsmll":19.52731441,"publishname":"材料行业","assigndscrpt":"10派0.50元(含税)","gxl":0.0101214574898785,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002388","sname":"新亚制程","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.14,"cutbasiceps":0.06,"totaloperatereve":812610818.2,"ystz":-0.21758034,"yshz":-0.1612,"parentnetprofit":64962148.77,"sjltz":496.50538093,"sjlhz":-51.6018,"roeweighted":7.18,"bps":2.44665448,"mgjyxjje":0.25153522,"xsmll":20.33331489,"publishname":"电子信息","assigndscrpt":"10派0.20元(含税)","gxl":0.00266311584553928,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002926","sname":"华西证券","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.49,"cutbasiceps":0.45,"totaloperatereve":2669781478.97,"ystz":-1.49906284,"yshz":"-","parentnetprofit":1019124805.62,"sjltz":-38.8463954,"sjlhz":"-","roeweighted":8.26,"bps":6.0749195,"mgjyxjje":0.06924473,"xsmll":"-","publishname":"券商信托","assigndscrpt":"10派0.38元(含税)","gxl":0.00273972602739726,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"603229","sname":"奥翔药业","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.37,"cutbasiceps":0.36,"totaloperatereve":240188298.82,"ystz":20.79356943,"yshz":104.4094,"parentnetprofit":53011517.29,"sjltz":-7.52960111,"sjlhz":202.6901,"roeweighted":12.43,"bps":3.53084171,"mgjyxjje":0.29240486,"xsmll":60.40202218,"publishname":"医药制造","assigndscrpt":"10派0.70元(含税)","gxl":0.0031390134529148,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"300572","sname":"安车检测","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.1857,"cutbasiceps":1.0813,"totaloperatereve":411769600.7,"ystz":29.41356241,"yshz":21.9101,"parentnetprofit":79048006.68,"sjltz":61.21118482,"sjlhz":-14.0784,"roeweighted":14.99,"bps":8.3139914,"mgjyxjje":2.74952769,"xsmll":49.1312703,"publishname":"仪器仪表","assigndscrpt":"10转8.00派2.50元(含税)","gxl":0.00274152867638995,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"300673","sname":"佩蒂股份","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.56,"cutbasiceps":1.5,"totaloperatereve":631997948.04,"ystz":14.78924835,"yshz":35.1177,"parentnetprofit":106761959.02,"sjltz":32.84452078,"sjlhz":97.7596,"roeweighted":18.39,"bps":10.62759843,"mgjyxjje":0.39260867,"xsmll":37.27260933,"publishname":"农牧饲渔","assigndscrpt":"10转5.00派5.00元(含税)","gxl":0.00922509225092251,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"603365","sname":"水星家纺","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.25,"cutbasiceps":1.18,"totaloperatereve":2461896884.24,"ystz":24.52557766,"yshz":47.8856,"parentnetprofit":257349047.34,"sjltz":30.1706536,"sjlhz":73.987,"roeweighted":24.21,"bps":7.63352561,"mgjyxjje":1.14641193,"xsmll":36.36033315,"publishname":"纺织服装","assigndscrpt":"10派5.00元(含税)","gxl":0.0198491464867011,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"603387","sname":"基蛋生物","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.72,"cutbasiceps":1.53,"totaloperatereve":488582766.19,"ystz":32.37483914,"yshz":32.8494,"parentnetprofit":193988370.3,"sjltz":40.20866614,"sjlhz":15.753,"roeweighted":28.7,"bps":8.66267337,"mgjyxjje":1.45388554,"xsmll":82.1250288,"publishname":"医疗行业","assigndscrpt":"10转4.00派4.50元(含税)","gxl":0.0071349294434755,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600321","sname":"正源股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":-0.003,"cutbasiceps":-0.007,"totaloperatereve":1163468540.16,"ystz":106.76126649,"yshz":46.9379,"parentnetprofit":-4560963.57,"sjltz":50.69956972,"sjlhz":-318.264,"roeweighted":-0.17,"bps":1.75980883,"mgjyxjje":0.08480125,"xsmll":5.4797209,"publishname":"水泥建材","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600256","sname":"广汇能源","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.1255,"cutbasiceps":0.143,"totaloperatereve":8137456364.54,"ystz":94.0101184,"yshz":73.7574,"parentnetprofit":655383993.59,"sjltz":218.76841481,"sjlhz":194.472,"roeweighted":5.77,"bps":2.22668343,"mgjyxjje":0.47156623,"xsmll":37.78677296,"publishname":"石油行业","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600069","sname":"银鸽投资","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.04,"cutbasiceps":0.01,"totaloperatereve":2937369148.21,"ystz":25.37407394,"yshz":3.5597,"parentnetprofit":55589187.98,"sjltz":113.91899714,"sjlhz":3.9285,"roeweighted":2.71,"bps":1.68885979,"mgjyxjje":0.19586627,"xsmll":9.02826988,"publishname":"造纸印刷","assigndscrpt":"10转3.00","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000070","sname":"特发信息","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.4236,"cutbasiceps":0.3917,"totaloperatereve":5473074135.56,"ystz":18.65954415,"yshz":35.7078,"parentnetprofit":265623180.36,"sjltz":35.6707967,"sjlhz":42.2872,"roeweighted":14.29,"bps":3.16043019,"mgjyxjje":0.40340986,"xsmll":16.64025447,"publishname":"通讯行业","assigndscrpt":"10派0.36元(含税)","gxl":0.00373831775700935,"securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600586","sname":"金晶科技","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.1,"cutbasiceps":0.1876,"totaloperatereve":4353827869.23,"ystz":29.68718983,"yshz":35.0675,"parentnetprofit":144490264.77,"sjltz":281.99028026,"sjlhz":-138.9883,"roeweighted":3.53,"bps":2.8822876,"mgjyxjje":0.32257745,"xsmll":26.47447689,"publishname":"玻璃陶瓷","assigndscrpt":"10派0.60元(含税)","gxl":0.0151133501259446,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000811","sname":"冰轮环境","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.48,"cutbasiceps":0.27,"totaloperatereve":3452079793.87,"ystz":12.44756288,"yshz":40.6328,"parentnetprofit":314468217.97,"sjltz":2.66582018,"sjlhz":31.7916,"roeweighted":12.51,"bps":4.18054843,"mgjyxjje":0.11679168,"xsmll":28.25840658,"publishname":"机械行业","assigndscrpt":"10派0.80元(含税)","gxl":0.0113314447592068,"securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600506","sname":"香梨股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.034,"cutbasiceps":-0.053,"totaloperatereve":65318509.11,"ystz":-3.98849751,"yshz":198.8127,"parentnetprofit":5077018.09,"sjltz":186.772985,"sjlhz":26764.427,"roeweighted":1.85,"bps":1.87751992,"mgjyxjje":0.02574929,"xsmll":4.92538607,"publishname":"农牧饲渔","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600501","sname":"航天晨光","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.03,"cutbasiceps":-0.09,"totaloperatereve":2636024646.98,"ystz":-17.19493207,"yshz":45.2705,"parentnetprofit":11713080.1,"sjltz":-19.86474249,"sjlhz":52.8597,"roeweighted":0.53,"bps":5.24387479,"mgjyxjje":0.99525813,"xsmll":25.13421632,"publishname":"专用设备","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600415","sname":"小商品城","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.27,"cutbasiceps":0.29,"totaloperatereve":10017096584.81,"ystz":42.32809952,"yshz":-19.1527,"parentnetprofit":1459364534.03,"sjltz":37.64024163,"sjlhz":10.3001,"roeweighted":13.68,"bps":2.05580749,"mgjyxjje":0.05031441,"xsmll":32.56056365,"publishname":"商业百货","assigndscrpt":"10派0.81元(含税)","gxl":0.0153409090909091,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600162","sname":"香江控股","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.2441,"cutbasiceps":0.2302,"totaloperatereve":4313797549.3,"ystz":-20.26296112,"yshz":169.6364,"parentnetprofit":816597980.93,"sjltz":18.29743568,"sjlhz":195.9243,"roeweighted":11.59,"bps":2.24080242,"mgjyxjje":0.16764938,"xsmll":52.70462809,"publishname":"房地产","assigndscrpt":"10派1.60元(含税)","gxl":0.0517799352750809,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000780","sname":"*ST平能","securitytype":"A股","trademarket":"深交所风险警示板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.48,"cutbasiceps":0.33,"totaloperatereve":2807990425.98,"ystz":29.59957315,"yshz":-1.3659,"parentnetprofit":483797872.03,"sjltz":249.50188199,"sjlhz":161.52,"roeweighted":11.13,"bps":4.54198113,"mgjyxjje":1.1616227,"xsmll":44.51802458,"publishname":"煤炭采选","assigndscrpt":"10派2.00元(含税)","gxl":0.0388349514563107,"securitytypecode":"058001001","trademarketcode":"069001002005","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"300245","sname":"天玑科技","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.2,"cutbasiceps":0.1,"totaloperatereve":359535979.29,"ystz":-13.82664766,"yshz":22.415,"parentnetprofit":54954319.42,"sjltz":-4.87977408,"sjlhz":-65.8021,"roeweighted":6.83,"bps":4.32606672,"mgjyxjje":0.14538813,"xsmll":34.78153838,"publishname":"软件服务","assigndscrpt":"10派0.70元(含税)","gxl":0.0052199850857569,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002128","sname":"露天煤业","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.07,"cutbasiceps":1.03,"totaloperatereve":7588819238.46,"ystz":37.95872758,"yshz":52.7319,"parentnetprofit":1754614685.27,"sjltz":112.95097341,"sjlhz":273.015,"roeweighted":17.43,"bps":6.60712601,"mgjyxjje":1.26519734,"xsmll":43.41263853,"publishname":"煤炭采选","assigndscrpt":"10派3.00元(含税)","gxl":0.0320512820512821,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"601003","sname":"柳钢股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.0325,"cutbasiceps":1.015,"totaloperatereve":41557169054.26,"ystz":55.93449642,"yshz":7.5188,"parentnetprofit":2646176293.67,"sjltz":1247.07916793,"sjlhz":61.8151,"roeweighted":44.7,"bps":2.80912168,"mgjyxjje":1.79983022,"xsmll":8.96685565,"publishname":"钢铁行业","assigndscrpt":"10派5.00元(含税)","gxl":0.0765696784073507,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"601177","sname":"杭齿前进","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.0265,"cutbasiceps":-0.0694,"totaloperatereve":1658490746.93,"ystz":7.46329632,"yshz":40.4842,"parentnetprofit":10610840.33,"sjltz":45.35380071,"sjlhz":144.0941,"roeweighted":0.66,"bps":4.01599672,"mgjyxjje":0.47406989,"xsmll":25.59830031,"publishname":"机械行业","assigndscrpt":"10派0.20元(含税)","gxl":0.00264900662251656,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002172","sname":"澳洋科技","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.21,"cutbasiceps":0.16,"totaloperatereve":5366490321.8,"ystz":10.06338845,"yshz":-4.6866,"parentnetprofit":154658566.82,"sjltz":-40.3420621,"sjlhz":-121.4868,"roeweighted":12.2,"bps":2.03690668,"mgjyxjje":0.13545507,"xsmll":10.99652185,"publishname":"化纤行业","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002146","sname":"荣盛发展","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.32,"cutbasiceps":1.17,"totaloperatereve":38704011453.44,"ystz":26.39276718,"yshz":105.7504,"parentnetprofit":5760769979.99,"sjltz":38.8775475,"sjlhz":168.5784,"roeweighted":22.44,"bps":6.32686097,"mgjyxjje":0.52290334,"xsmll":29.50486931,"publishname":"房地产","assigndscrpt":"10派4.20元(含税)","gxl":0.0413793103448276,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000609","sname":"中迪投资","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.46,"cutbasiceps":0.46,"totaloperatereve":271220985.6,"ystz":106.25391455,"yshz":11.2719,"parentnetprofit":134398552.76,"sjltz":0.96547266,"sjlhz":1155.9901,"roeweighted":8.87,"bps":5.26793887,"mgjyxjje":-1.43847629,"xsmll":32.43058483,"publishname":"房地产","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600838","sname":"上海九百","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.24,"cutbasiceps":0.2434,"totaloperatereve":90726311.93,"ystz":0.83164162,"yshz":77.5909,"parentnetprofit":97333526.13,"sjltz":-46.79304154,"sjlhz":10.1378,"roeweighted":7.75,"bps":3.12845194,"mgjyxjje":-0.03532338,"xsmll":45.09779774,"publishname":"商业百货","assigndscrpt":"10派0.73元(含税)","gxl":0.00798687089715536,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000691","sname":"亚太实业","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":-0.03,"cutbasiceps":-0.03,"totaloperatereve":46147810.94,"ystz":-0.20591608,"yshz":-99.6221,"parentnetprofit":-8600632.59,"sjltz":-738.84311333,"sjlhz":37.8577,"roeweighted":-10.93,"bps":0.23018619,"mgjyxjje":0.04568056,"xsmll":8.38336526,"publishname":"房地产","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"000568","sname":"泸州老窖","securitytype":"A股","trademarket":"深交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.798,"cutbasiceps":1.785,"totaloperatereve":10394867493.46,"ystz":20.4965022,"yshz":43.9381,"parentnetprofit":2557944598.97,"sjltz":30.6945331,"sjlhz":5.694,"roeweighted":20.3,"bps":10.35768774,"mgjyxjje":2.52152328,"xsmll":71.93023328,"publishname":"酿酒行业","assigndscrpt":"10派12.50元(含税)","gxl":0.0203053931124107,"securitytypecode":"058001001","trademarketcode":"069001002001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600746","sname":"江苏索普","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.2449,"cutbasiceps":0.1925,"totaloperatereve":777314393.53,"ystz":24.67519712,"yshz":-5.5903,"parentnetprofit":75031732.28,"sjltz":244.45618774,"sjlhz":-12.027,"roeweighted":15.96,"bps":1.64273917,"mgjyxjje":-0.0508342,"xsmll":17.90540748,"publishname":"化工行业","assigndscrpt":"10派1.20元(含税)","gxl":0.015625,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600743","sname":"华远地产","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.35,"cutbasiceps":0.3,"totaloperatereve":9903786948.86,"ystz":30.16894605,"yshz":143.9648,"parentnetprofit":818949308.18,"sjltz":10.47122663,"sjlhz":100.7211,"roeweighted":11.65,"bps":3.12071898,"mgjyxjje":0.29152613,"xsmll":28.02498454,"publishname":"房地产","assigndscrpt":"10派1.00元(含税)","gxl":0.0293255131964809,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"600120","sname":"浙江东方","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-11T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":1.1,"cutbasiceps":0.22,"totaloperatereve":9811450209.65,"ystz":68.07846853,"yshz":-27.218,"parentnetprofit":719499845.33,"sjltz":-2.0272498,"sjlhz":-35.6385,"roeweighted":7.76,"bps":14.90666677,"mgjyxjje":1.24982324,"xsmll":4.16742399,"publishname":"国际贸易","assigndscrpt":"10转3.00派1.30元(含税)","gxl":0.00619342544068604,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-11T00:00:00"},{"scode":"002811","sname":"亚泰国际","securitytype":"A股","trademarket":"深交所中小板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.6,"cutbasiceps":0.51,"totaloperatereve":1825031247.69,"ystz":9.68723077,"yshz":-0.0028,"parentnetprofit":107757811.61,"sjltz":33.15569405,"sjlhz":108.0247,"roeweighted":8.51,"bps":7.2680209,"mgjyxjje":0.14634306,"xsmll":17.20828853,"publishname":"装修装饰","assigndscrpt":"10派2.00元(含税)","gxl":0.010515247108307,"securitytypecode":"058001001","trademarketcode":"069001002003","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"603909","sname":"合诚股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.6223,"cutbasiceps":0.5458,"totaloperatereve":344015777.79,"ystz":18.51259263,"yshz":47.0806,"parentnetprofit":62230049.21,"sjltz":7.5835368,"sjlhz":-10.031,"roeweighted":10.33,"bps":6.30772096,"mgjyxjje":-0.01266145,"xsmll":41.62212796,"publishname":"工程建设","assigndscrpt":"10派1.25元(含税)","gxl":0.00423728813559322,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"300443","sname":"金雷风电","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.6313,"cutbasiceps":0.5873,"totaloperatereve":596281601.0,"ystz":-6.28888923,"yshz":-29.9208,"parentnetprofit":150277457.47,"sjltz":-28.39960829,"sjlhz":-21.4854,"roeweighted":9.63,"bps":6.80974421,"mgjyxjje":0.85035755,"xsmll":40.15086418,"publishname":"机械行业","assigndscrpt":"不分配不转增","gxl":"-","securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"603318","sname":"派思股份","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.15,"cutbasiceps":0.15,"totaloperatereve":564069443.76,"ystz":44.17658312,"yshz":-26.4268,"parentnetprofit":54862970.94,"sjltz":134.2003255,"sjlhz":-88.21,"roeweighted":10.28,"bps":2.53322961,"mgjyxjje":0.0930387,"xsmll":35.10171313,"publishname":"机械行业","assigndscrpt":"10派0.15元(含税)","gxl":0.00106307583274274,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"603369","sname":"今世缘","securitytype":"A股","trademarket":"上交所主板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.7141,"cutbasiceps":0.6971,"totaloperatereve":2957495242.28,"ystz":15.44103362,"yshz":-4.1791,"parentnetprofit":895876928.0,"sjltz":18.20891751,"sjlhz":-5.0845,"roeweighted":18.11,"bps":4.19477554,"mgjyxjje":0.79814973,"xsmll":71.70705264,"publishname":"酿酒行业","assigndscrpt":"10派2.50元(含税)","gxl":0.0145772594752187,"securitytypecode":"058001001","trademarketcode":"069001001001","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"300371","sname":"汇中股份","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.5437,"cutbasiceps":0.5268,"totaloperatereve":246668974.0,"ystz":15.44845452,"yshz":32.9166,"parentnetprofit":65241127.8,"sjltz":23.28104246,"sjlhz":30.9373,"roeweighted":11.39,"bps":5.01611841,"mgjyxjje":0.66861454,"xsmll":58.87928647,"publishname":"仪器仪表","assigndscrpt":"10派1.50元(含税)","gxl":0.00781657113079729,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"300341","sname":"麦迪电气","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.2566,"cutbasiceps":0.2447,"totaloperatereve":795534210.47,"ystz":8.69821591,"yshz":7.9897,"parentnetprofit":130324230.52,"sjltz":14.65251946,"sjlhz":31.715,"roeweighted":12.27,"bps":2.13551853,"mgjyxjje":0.31647584,"xsmll":41.77327111,"publishname":"输配电气","assigndscrpt":"10派0.55元(含税)","gxl":0.00582010582010582,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"300316","sname":"晶盛机电","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.39,"cutbasiceps":0.36,"totaloperatereve":1948848200.36,"ystz":78.55289615,"yshz":54.1396,"parentnetprofit":386642455.73,"sjltz":89.76450394,"sjlhz":19.8778,"roeweighted":11.33,"bps":3.62339698,"mgjyxjje":-0.16346166,"xsmll":38.35494199,"publishname":"机械行业","assigndscrpt":"10转3.00派1.00元(含税)","gxl":0.00441306266548985,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-10T00:00:00"},{"scode":"300314","sname":"戴维医疗","securitytype":"A股","trademarket":"深交所创业板","latestnoticedate":"2018-04-10T00:00:00","reportdate":"2017-12-31T00:00:00","basiceps":0.16,"cutbasiceps":0.14,"totaloperatereve":303905401.69,"ystz":14.70345487,"yshz":29.0351,"parentnetprofit":47033169.43,"sjltz":-24.34252829,"sjlhz":-125.82,"roeweighted":6.17,"bps":2.70243189,"mgjyxjje":0.19007102,"xsmll":51.44417371,"publishname":"医疗行业","assigndscrpt":"10派0.50元(含税)","gxl":0.0038971161340608,"securitytypecode":"058001001","trademarketcode":"069001002002","firstnoticedate":"2018-04-10T00:00:00"}]},
+            beforeupdate: function (_t) {
+                _t.options.cells = eval('(' + editThead() + ')');
+                _t.options.cellcount = cellCount;
+            },
+            beforedisplay: function (_t) {
+                _t.options.cellcount = cellCount;
+                var date = "201712" || "201412";
+                year = date.substring(0, 4);
+                month = date.substring(4);
+                dateVal = year + "-" + month;
+                if (month.indexOf("12") != -1)
+                    dateVal += "-31";
+                else if (month.indexOf("09") != -1)
+                    dateVal += "-30";
+                else if (month.indexOf("06") != -1)
+                    dateVal += "-30";
+                else if (month.indexOf("03") != -1)
+                    dateVal += "-31";
+                jQuery("#date_type option[value = '/bbsj/201712/yjbb.html']").prop("selected", 'selected');
+                var dateStr = dateVal;//document.getElementById("date_type").options[document.getElementById("date_type").selectedIndex].text;
+                var quarter = dateStr.substr(0, 4) + "年";
+                // 编辑显示的季度
+                if (dateStr.indexOf("12-31") != -1)
+                    quarter += "年";
+                else if (dateStr.indexOf("09-30") != -1)
+                    quarter += "三季";
+                else if (dateStr.indexOf("06-30") != -1)
+                    quarter += "中";
+                else if (dateStr.indexOf("03-31") != -1)
+                    quarter += "一季";
+
+                document.title = quarter + "报业绩大全 _ 数据中心 _ 东方财富网";
+                document.getElementById("topTit").innerHTML = quarter + "报业绩大全";
+
+                // tab跳转
+                var dateParam = dateStr.substr(0, 4) + dateStr.substr(5, 2);
+                document.getElementById("yjkbTab").onclick = function () {
+                    window.location.href = "/bbsj/" + dateParam + "/yjkb/13.html";
+                }
+                document.getElementById("yjygTab").onclick = function () {
+                    window.location.href = "/bbsj/" + dateParam + "/yjyg.html";
+                }
+                document.getElementById("yysjTab").onclick = function () {
+                    window.location.href = "/bbsj/" + dateParam + "/yysj.html";
+                }
+            },
+            maketr: function (row, data, i, c) {
+              
+                var _t = this;
+                var _class = (i % 2 == 0) ? "" : "odd";
+                row.className = _class;
+                row.onmouseover = function () {
+                    this.className = "over";
+                }
+                row.onmouseout = function (o, _c) {
+                    o.className = _c;
+                }.bind(this, row, _class)
+                var gpdm = "", yytb = "", yyhb = "", jlrtb = "", jlrhb = "";
+                gpdm = data.scode;//代码
+                mc = data.sname;//名称
+                var namelink = '<a href="/stockdata/' + gpdm + '.html">' + mc + '</a>';
+                row.cells[0].innerHTML = c;
+                if (gpdm.length > 1 && (gpdm.substring(0, 1) == '4' || gpdm.substring(0, 1) == '8')) {
+        
+                    row.cells[1].innerHTML = '<a href="http://quote.eastmoney.com/3ban/sz' + gpdm + '.html?StockCode=' + gpdm + '">' + gpdm + '</a>'; //
+                    row.cells[2].innerHTML = mc;
+                    row.cells[3].innerHTML = '<a class="red" href="/bbsj/stock' + gpdm + '/yjbb.html">详细</a>&nbsp;&nbsp;<a href="http://guba.eastmoney.com/topic,' + gpdm + '.html">股吧</a>';
+                }
+                else {
+                    row.cells[1].innerHTML = '<a href="http://quote.eastmoney.com/' + gpdm + '.html">' + gpdm + '</a>'; //
+                    row.cells[2].innerHTML = namelink;
+                    row.cells[3].innerHTML = '<a class="red" href="/bbsj/' + gpdm + '.html">详细</a>&nbsp;&nbsp;<a href="http://guba.eastmoney.com/topic,' + gpdm + '.html">股吧</a>';
+                }
+                row.cells[4].className = "tdnumber";
+                var mgsy = data.basiceps;
+                mgsy = mgsy == "-" ? "-" : (mgsy / 1).toFixed(4);
+                row.cells[4].innerHTML = '<span>' + mgsy + '</span>'; //每股收益可填入正负00.0000
+                row.cells[5].className = "tdnumber";
+                var yysr = data.totaloperatereve;
+                row.cells[5].innerHTML = getcolor_JS(yysr,'w',yyhb,1);//营业收入
+
+                row.cells[6].className = "tdnumber";
+                yytb = data.ystz;
+                yytb = yytb == "-" ? "-" : (data.ystz / 1).toFixed(2);
+                row.cells[6].innerHTML = "<span class='" + getColor(yytb) + "'>" + yytb + "</span>"; //营业收入同比增长
+
+                row.cells[7].className = "tdnumber";
+                yyhb = data.yshz;
+                yyhb = yyhb == "-" ? "-" : (data.yshz / 1).toFixed(2);
+                row.cells[7].innerHTML = "<span class='" + getColor(yyhb) + "'>" + yyhb + "</span>"; //季度环比增长
+                row.cells[8].className = "tdnumber";
+                var jlr = data.parentnetprofit;
+                row.cells[8].innerHTML = getcolor_JS(jlr,'w',jlr,1); //净利润可填入正负0000.00
+
+                row.cells[9].className = "tdnumber";
+                jlrtb = data.sjltz;
+                jlrtb = jlrtb == "-" ? "-" : (data.sjltz / 1).toFixed(2);
+                row.cells[9].innerHTML = "<span class='" + getColor(jlrtb) + "'>" + jlrtb + "</span>"; //净利润同比增长
+
+                row.cells[10].className = "tdnumber";
+                jlrhb = data.sjlhz;
+                jlrhb = jlrhb == "-" ? "-" : (data.sjlhz / 1).toFixed(2);
+                row.cells[10].innerHTML = "<span class='" + getColor(jlrhb) + "'>" + jlrhb + "</span>"; //季度环比增长
+                row.cells[11].className = "tdnumber";
+                var mgjzc = data.bps;
+                mgjzc = mgjzc == "-" ? "-" : (data.bps / 1).toFixed(4);
+                row.cells[11].innerHTML = "<span>" + mgjzc + "</span>"; //每股净资产
+                row.cells[12].className = "tdnumber";
+                var jzcsyl = data.roeweighted;
+                jzcsyl = jzcsyl == "-" ? "-" : (data.roeweighted / 1).toFixed(2);
+                row.cells[12].innerHTML = "<span>" + jzcsyl + "</span>"; //净资产收益率
+                row.cells[13].className = "tdnumber";
+                var mgxjll = data.mgjyxjje;
+                mgxjll = mgxjll == "-" ? "-" : (data.mgjyxjje / 1).toFixed(4);
+                row.cells[13].innerHTML = "<span>" + mgxjll + "</span>"; //每股现金流量
+                row.cells[14].className = "tdnumber";
+                var xsmlv = data.xsmll;
+                xsmlv = xsmlv == "-" ? "-" : (data.xsmll / 1).toFixed(2);
+                row.cells[14].innerHTML = "<span>" + xsmlv + "</span>"; //销售毛利率
+                var dateStr = "201712" || "201412";
+                if (dateStr.indexOf("12") == -1 && dateStr.indexOf("06") == -1) {
+                    row.cells[15].innerHTML = dateFormat(data.firstnoticedate, "MM-dd") || "-"; //首次公告日期
+                    row.cells[15].title = dateFormat(data.firstnoticedate, "yyyy-MM-dd");
+                    row.cells[16].innerHTML = dateFormat(data.latestnoticedate, "MM-dd") || "-"; //最新公告日期
+                    row.cells[16].title = dateFormat(data.latestnoticedate, "yyyy-MM-dd");
+                } else {
+                    var lrfp = data.assigndscrpt || "-";
+                    lrfp = lrfp == '-' ? '-' : '<span>' + lrfp.replace(/\((.+?)\)/g ,"").replace('元','') + '</span>';
+                    row.cells[15].innerHTML = lrfp;//利润分配
+                    row.cells[16].innerHTML = '<span style="white-space: nowrap;">' + (dateFormat(data.firstnoticedate, "MM-dd") || "-") + '</span>' || "-"; //首次公告日期
+                    row.cells[16].title = dateFormat(data.firstnoticedate, "yyyy-MM-dd");
+                    row.cells[17].innerHTML = '<span style="white-space: nowrap;">' + (dateFormat(data.latestnoticedate, "MM-dd") || "-") + '</span>' || "-"; //最新公告日期
+                    row.cells[17].title = dateFormat(data.latestnoticedate, "yyyy-MM-dd");
+                }
+            }
+        });
+    </script>
+
+    <script>
+        SeoGa();
+        window.adDataType = "data"; //共3个值：quote，data，guba不写默认表示其他频道；
+        window.adSwitch = "both";//共3个值：both,left,right 不写默认both；
+        window.fixedBodyWidth = 1000;//950,1000 不写默认1000
+        window.switchBackTop = false;
+    </script>
+    <!-- 左侧广告 -->
+    <script type="text/javascript" src="http://emres.dfcfw.com/public/js/left.js"></script>
+    <!-- 右侧广告 -->
+    <script type="text/javascript" src="http://emres.dfcfw.com/public/js/em_news_fixed_right.js"></script>
+
+    <script type="text/javascript" src="http://bdstatic.eastmoney.com/web/prd/emtj_tracker.js?v=20150408" defer></script>
+    <script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emhotarea.min.js?v=20150923"　defer></script>
+    <script type="text/javascript" src="http://emres.dfcfw.com/common/js/collect_stat.js" defer></script>
+    <script type="text/javascript" src="http://emcharts.dfcfw.com/newsts/newsts.min.js" charset="utf-8" defer></script>
+	
+    <!--[if IE 6]>
+        <script type="text/javascript">
+            jQuery(function() {
+                var $ = jQuery;
+                var html = '<div class="IE6_notice" style="font-size:14px;padding-top:5px;z-index:100000;width:100%;height:25px;background-color:#fbe899;">' +
+	                            '您的浏览器版本太低，为了给您提供更好的浏览体验，请改用其他浏览器打开页面！' +
+	                        '</div>';
+                //$(html).insertBefore($(".top-nav-wrap"));
+                $(html).insertBefore($("#fixMenuBar"));
+                $(".IE6_notice").css("color", "red").css("font-family", "Microsoft YaHei");
+                //$(".top-nav-wrap").css("top", "30px");
+                $(".adFrame1000").css("padding-top", "40px");
+            })
+        </script>  
+    <![endif]-->
+
+</body>
+</html>

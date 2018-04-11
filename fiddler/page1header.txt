@@ -1,0 +1,10 @@
+GET /bbsj/201712/yjbb.html HTTP/1.1
+Host: data.eastmoney.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://data.eastmoney.com/bbsj/201803/yjbb.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: st_pvi=85960239338242; st_si=38777222477479; pgv_pvi=6563009536; pgv_si=s754297856; _qddaz=QD.37o3vr.nxzl6z.jfteq0ej; qgqp_b_id=15c5a0cd6f3ba487c4c2c2e3d4cf715e
