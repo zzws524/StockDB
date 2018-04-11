@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -755,3 +756,7 @@
   </body>
 </html>
 
+=======
+# StockDB
+upload stock info to my own cloud DB
+>>>>>>> e73260828f2efd68af0f6a0714c410918e7bcd67
