@@ -30,11 +30,47 @@ class Log:
             os.makedirs(self.resultFolder)
         self.resultFile=self.resultFolder+r'/'+self.name+'.log'
 
+class Headers:
+    firstHeader={'Host':'data.eastmoney.com',
+                 'Connection':'keep-alive',
+                 'Upgrade-Insecure-Requests':1,
+                 'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+                 'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+                 'Referer':'http://data.eastmoney.com/bbsj/201803/yjbb.html',
+                 'Accept-Encoding':'gzip, deflate',
+                 'Accept-Language':'zh-CN,zh;q=0.9'}
+
+
+class UrlAddress:
+    def __init__(self):
+        self.logger=logging.getLogger(__name__)
+        self.month=None
+
+    def _parseQuarter(self,yearQuarter):
+        myQuarter=str(yearQuarter)[-2:]
+        if myQuarter=='Q1':
+            self.month='03'
+        elif myQuarter=='Q2':
+            self.month='06'
+        elif myQuarter=='Q3':
+            self.month='09'
+        elif myQuarter=='Q4':
+            self.month='12'
+        else:
+            self.logger.error('Wrong YearQuarter Format')
+            os._exit(1)
+
+    def getInitPage(self,yearQuarter):
+        self._parseQuarter(yearQuarter)
+        yearMonth=str(yearQuarter)[:4]+self.month
+        initPageAddress='http://data.eastmoney.com/bbsj/'+yearMonth+'/yjbb.html'
+        self.logger.info(initPageAddress)
+
 
 class PullDataFromWeb:
-    def __init__(self,quarterWanted):
+    def __init__(self,timeWanted):
         self.logger=logging.getLogger(__name__)
-        self.quarterWanted=quarterWanted
+        self.timeWanted=timeWanted
 
 
 
@@ -51,3 +87,4 @@ if __name__=='__main__':
     log.logger.info('----------Pull Stock Data From Web-----------------')
     log.logger.info('----------Developed By Zhang Zi We-----------------')
     log.logger.info('---------------------------------------------------')
+
