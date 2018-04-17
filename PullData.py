@@ -6,7 +6,7 @@ import sys
 import time
 import re
 import requests
-
+import json
 
 
 class Log:
@@ -70,6 +70,8 @@ class UrlAddress:
         self.logger.info(initPageAddress)
         return initPageAddress
 
+    def urlFormatForMorePages(self):
+        hostPage='http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type=YJBB20_YJBB&token='
 
 class PullDataFromWeb:
     def __init__(self,timeWanted):    #e.g.  2017Q4
@@ -77,21 +79,52 @@ class PullDataFromWeb:
         self.session=requests.Session()
         self.timeWanted=timeWanted
         self.myCookie=None
+        self.totalRecords=[]
+        self.totalPageNum=1
+        self.tmpUrlGenerator=UrlAddress()
 
     def _pullFirstPage(self):
-        tmpUrlGenerator=UrlAddress()
-        firstPageUrl=tmpUrlGenerator.getInitPage(self.timeWanted)
+        firstPageUrl=self.tmpUrlGenerator.getInitPage(self.timeWanted)
         response=self.session.get(firstPageUrl,verify=False,headers=Headers.firstHeader)
         self.myCookie=response.cookies
-        self.logger.info(response.text)
+        self.logger.debug(response.text)
 
-        #rex={'tmpStock':re.compile('鲁抗医药')}
-        #checkReg=rex['tmpStock'].findall(response.text)[0]
-        #print (checkReg)
+        reg={'pageNum':re.compile('defjson\: \{pages\:(\d*),data\:'),'stockInfo':re.compile('defjson\: \{pages\:\d*,data\:(.*)\}\,\s*beforeupdate'),'token':re.compile('token=(.*)\&st='),'sortType':re.compile('id\:\s\"(.*?)\"\,\sdesc'),'sortRule':re.compile('\,\sdesc\:\s(\w+?)\s\}\,')}
+        #get total page number
+        totalPageQty=reg['pageNum'].findall(response.text)[0]
+        self.logger.info('total page numer is %s'%totalPageQty)
+        self.totalPageNum=totalPageQty
+        #get stock info on first page
+        stockInfoOn1stPage=reg['stockInfo'].findall(response.text)[0]
+        parsedStockInfoOn1stPage=json.loads(stockInfoOn1stPage)
+        self.logger.debug('stock info of first page is:')
+        self.logger.debug(parsedStockInfoOn1stPage)
+        self.totalRecords.append(parsedStockInfoOn1stPage)
+        #prepare url for following pages
+        tmpToken=reg['token'].findall(response.text)[0]
+        tmpSort=reg['sortType'].findall(response.text)[0]
+        parsedRule={'true':'-1','false':'1'}
+        tmpRule=parsedRule[reg['sortRule'].findall(response.text)[0]]
+        self.logger.info('sort type is %s'%tmpSort)
+        self.logger.debug('token is %s'%tmpToken)
+        self.logger.debug('sort type is %s'%tmpSort)
+        self.logger.info('sort rule is %s'%tmpRule)
+        #self.tmpUrlGenerator.urlFormatForMorePages(tmpToken,tmpSort,tmpRule)
+
+    def _pullMorePages(self):
+        if int(self.totalPageNum)>1:
+            for currentPageNum in range(2,int(self.totalPageNum)+1):
+                self._pullCurrentPage(currentPageNum)
+        else:
+            self.logger.info('Only one page stock informations')
+
+    def _pullCurrentPage(self,pageNum):
+        return
 
 
     def run(self):
         self._pullFirstPage()
+        self._pullMorePages()
         self.logger.info('Done!!!!!!!!!!')
 
 
