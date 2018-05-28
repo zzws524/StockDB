@@ -7,6 +7,8 @@ import time
 import re
 import requests
 import json
+import random
+import string
 
 
 class Log:
@@ -47,18 +49,25 @@ class Headers:
 class UrlAddress:
     def __init__(self):
         self.logger=logging.getLogger(__name__)
+        self.year=None
         self.month=None
+        self.date=None
 
     def _parseQuarter(self,yearQuarter):
         myQuarter=str(yearQuarter)[-2:]
+        self.year=str(yearQuarter)[0:4]
         if myQuarter=='Q1':
             self.month='03'
+            self.date='31'
         elif myQuarter=='Q2':
             self.month='06'
+            self.date='30'
         elif myQuarter=='Q3':
             self.month='09'
+            self.date='30'
         elif myQuarter=='Q4':
             self.month='12'
+            self.date='31'
         else:
             self.logger.error('Wrong YearQuarter Format')
             os._exit(1)
@@ -70,8 +79,18 @@ class UrlAddress:
         self.logger.info(initPageAddress)
         return initPageAddress
 
-    def urlFormatForMorePages(self):
-        hostPage='http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type=YJBB20_YJBB&token='
+    def dataTableUrl(self,token,sortType,sortRule,currentPageNum):
+        random8Chars=''.join(random.sample(string.ascii_letters,8))
+        tmpCurrentTime=int(int(time.time()/30))
+        hostPage='http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type=YJBB20_YJBB&token='+token+'&st='+sortType+'&sr='+sortRule+'&p='+currentPageNum+'&ps=50&js=var%20'+random8Chars+'={pages:(tp),data:%20(x)}&filter=(reportdate=^'+self.year+'-'+self.month+'-'+self.date+'^)(securitytypecode%20in%20(%27058001001%27))&rt='+str(tmpCurrentTime)
+        return hostPage
+
+
+
+
+
+
+
 
 class PullDataFromWeb:
     def __init__(self,timeWanted):    #e.g.  2017Q4
@@ -83,7 +102,7 @@ class PullDataFromWeb:
         self.totalPageNum=1
         self.tmpUrlGenerator=UrlAddress()
 
-    def _pullFirstPage(self):
+    def _pullInitPage(self):
         firstPageUrl=self.tmpUrlGenerator.getInitPage(self.timeWanted)
         response=self.session.get(firstPageUrl,verify=False,headers=Headers.firstHeader)
         self.myCookie=response.cookies
@@ -109,22 +128,21 @@ class PullDataFromWeb:
         self.logger.debug('token is %s'%tmpToken)
         self.logger.debug('sort type is %s'%tmpSort)
         self.logger.info('sort rule is %s'%tmpRule)
-        #self.tmpUrlGenerator.urlFormatForMorePages(tmpToken,tmpSort,tmpRule)
 
-    def _pullMorePages(self):
+        self.logger.info(self.tmpUrlGenerator.dataTableUrl(tmpToken,tmpSort,tmpRule,'1'))
+
+    def _pullDataFromTable(self):
         if int(self.totalPageNum)>1:
             for currentPageNum in range(2,int(self.totalPageNum)+1):
                 self._pullCurrentPage(currentPageNum)
         else:
             self.logger.info('Only one page stock informations')
 
-    def _pullCurrentPage(self,pageNum):
-        return
 
 
     def run(self):
-        self._pullFirstPage()
-        self._pullMorePages()
+        self._pullInitPage()
+        #self._pullDataFromTable()
         self.logger.info('Done!!!!!!!!!!')
 
 
