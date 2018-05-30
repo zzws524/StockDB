@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import logging
 import os
 import io
@@ -13,150 +13,211 @@ import string
 
 class Log:
     def __init__(self):
-        self.resultFolder=None
-        self.resultFile=None
-        self.name='StockDB'
+        self.resultFolder = None
+        self.resultFile = None
+        self.name = "StockDB"
         self._createResultFolder()
-        self.logger=logging.getLogger(__name__)
-        logging.basicConfig(level=logging.DEBUG,
-                format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s: %(message)s',
-                datefmt='%a, %d %b %Y %H:%M:%S',
-                filename=self.resultFile,
-                filemode='w')
-        console=logging.StreamHandler(sys.stdout)
-        console.setLevel(logging.INFO)
-        formatter =logging.Formatter('%(name)-12s: %(levelname)-8s %(message)s')
+        self.logger = logging.getLogger(__name__)
+        logging.basicConfig(
+            level=logging.DEBUG,
+            format="%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s: %(message)s",
+            datefmt="%a, %d %b %Y %H:%M:%S",
+            filename=self.resultFile,
+            filemode="w",
+        )
+        console = logging.StreamHandler(sys.stdout)
+        console.setLevel(logging.DEBUG)
+        formatter = logging.Formatter("%(name)-12s: %(levelname)-8s %(message)s")
         console.setFormatter(formatter)
         self.logger.addHandler(console)
 
     def _createResultFolder(self):
-        self.resultFolder=r'./logs/'+str(time.strftime("%Y%m%d%H%M%S", time.localtime()))
+        self.resultFolder = r"./logs/" + str(
+            time.strftime("%Y%m%d%H%M%S", time.localtime())
+        )
         if not os.path.exists(self.resultFolder):
             os.makedirs(self.resultFolder)
-        self.resultFile=self.resultFolder+r'/'+self.name+'.log'
+        self.resultFile = self.resultFolder + r"/" + self.name + ".log"
+
 
 class Headers:
-    firstHeader={'Host':'data.eastmoney.com',
-                 'Connection':'keep-alive',
-                 'Upgrade-Insecure-Requests':'1',
-                 'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
-                 'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-                 'Referer':'http://data.eastmoney.com/bbsj/201803/yjbb.html',
-                 'Accept-Encoding':'gzip, deflate',
-                 'Accept-Language':'zh-CN,zh;q=0.9'}
+    firstHeader = {
+        "Host": "data.eastmoney.com",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Referer": "http://data.eastmoney.com/bbsj/201803/yjbb.html",
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+    }
 
 
 class UrlAddress:
     def __init__(self):
-        self.logger=logging.getLogger(__name__)
-        self.year=None
-        self.month=None
-        self.date=None
+        self.logger = logging.getLogger(__name__)
+        self.year = None
+        self.month = None
+        self.date = None
+        self.tableType = None
 
-    def _parseQuarter(self,yearQuarter):
-        myQuarter=str(yearQuarter)[-2:]
-        self.year=str(yearQuarter)[0:4]
-        if myQuarter=='Q1':
-            self.month='03'
-            self.date='31'
-        elif myQuarter=='Q2':
-            self.month='06'
-            self.date='30'
-        elif myQuarter=='Q3':
-            self.month='09'
-            self.date='30'
-        elif myQuarter=='Q4':
-            self.month='12'
-            self.date='31'
+    def _parseQuarter(self, yearQuarter):
+        myQuarter = str(yearQuarter)[-2:]
+        self.year = str(yearQuarter)[0:4]
+        if myQuarter == "Q1":
+            self.month = "03"
+            self.date = "31"
+        elif myQuarter == "Q2":
+            self.month = "06"
+            self.date = "30"
+        elif myQuarter == "Q3":
+            self.month = "09"
+            self.date = "30"
+        elif myQuarter == "Q4":
+            self.month = "12"
+            self.date = "31"
         else:
-            self.logger.error('Wrong YearQuarter Format')
+            self.logger.error("Wrong YearQuarter Format")
             os._exit(1)
 
-    def getInitPage(self,yearQuarter):
+    def _parseTableType(self, tableType):
+        tmpArr = {
+            "业绩报表": [
+                "/yjbb.html",
+                "YJBB20_YJBB",
+                "(securitytypecode%20in%20(%27058001001%27))",
+            ],
+            "资产负债表": ["/zcfz.html", "CWBB_ZCFZB", ""],
+            "利润表": ["/lrb.html", "CWBB_LRB", ""],
+            "现金流量表": ["/xjll.html", "CWBB_XJLLB", ""],
+        }
+        self.tableType = tmpArr[tableType]
+
+    def getInitPage(self, tableType, yearQuarter):
         self._parseQuarter(yearQuarter)
-        yearMonth=str(yearQuarter)[:4]+self.month
-        initPageAddress='http://data.eastmoney.com/bbsj/'+yearMonth+'/yjbb.html'
-        self.logger.info(initPageAddress)
+        self._parseTableType(tableType)
+        yearMonth = str(yearQuarter)[:4] + self.month
+        initPageAddress = (
+            "http://data.eastmoney.com/bbsj/" + yearMonth + self.tableType[0]
+        )
+        self.logger.debug("init page address is : %s" % initPageAddress)
         return initPageAddress
 
-    def dataTableUrl(self,token,sortType,sortRule,currentPageNum):
-        random8Chars=''.join(random.sample(string.ascii_letters,8))
-        tmpCurrentTime=int(int(time.time()/30))
-        hostPage='http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type=YJBB20_YJBB&token='+token+'&st='+sortType+'&sr='+sortRule+'&p='+currentPageNum+'&ps=50&js=var%20'+random8Chars+'={pages:(tp),data:%20(x)}&filter=(reportdate=^'+self.year+'-'+self.month+'-'+self.date+'^)(securitytypecode%20in%20(%27058001001%27))&rt='+str(tmpCurrentTime)
+    def dataTableUrl(self, token, sortType, sortRule, currentPageNum):
+        random8Chars = "".join(random.sample(string.ascii_letters, 8))
+        tmpCurrentTime = int(int(time.time() / 30))
+        # TBD, sercuritytpycode is different.
+        hostPage = (
+            "http://dcfm.eastmoney.com/em_mutisvcexpandinterface/api/js/get?type="
+            + self.tableType[1]
+            + "&token="
+            + token
+            + "&st="
+            + sortType
+            + "&sr="
+            + sortRule
+            + "&p="
+            + currentPageNum
+            + "&ps=50&js=var%20"
+            + random8Chars
+            + "={pages:(tp),data:%20(x)}&filter=(reportdate=^"
+            + self.year
+            + "-"
+            + self.month
+            + "-"
+            + self.date
+            + "^)"
+            + self.tableType[2]
+            + "&rt="
+            + str(tmpCurrentTime)
+        )
+        self.logger.debug(hostPage)
         return hostPage
 
 
-
-
-
-
-
-
 class PullDataFromWeb:
-    def __init__(self,timeWanted):    #e.g.  2017Q4
-        self.logger=logging.getLogger(__name__)
-        self.session=requests.Session()
-        self.timeWanted=timeWanted
-        self.myCookie=None
-        self.totalRecords=[]
-        self.totalPageNum=1
-        self.tmpUrlGenerator=UrlAddress()
+    def __init__(self, tableType, timeWanted):  # e.g.  '业绩报表','2017Q4'
+        self.logger = logging.getLogger(__name__)
+        self.session = requests.Session()
+        self.tableType = tableType
+        self.timeWanted = timeWanted
+        self.myCookie = None
+        self.totalRecords = []
+        self.totalPageNum = 1
+        self.tmpUrlGenerator = UrlAddress()
 
-    def _pullInitPage(self):
-        firstPageUrl=self.tmpUrlGenerator.getInitPage(self.timeWanted)
-        response=self.session.get(firstPageUrl,verify=False,headers=Headers.firstHeader)
-        self.myCookie=response.cookies
-        self.logger.debug(response.text)
+    def _pullData(self):
+        firstPageUrl = self.tmpUrlGenerator.getInitPage(self.tableType, self.timeWanted)
+        response = self.session.get(
+            firstPageUrl, verify=False, headers=Headers.firstHeader
+        )
+        self.myCookie = response.cookies
+        # self.logger.debug(response.text)
 
-        reg={'pageNum':re.compile('defjson\: \{pages\:(\d*),data\:'),'stockInfo':re.compile('defjson\: \{pages\:\d*,data\:(.*)\}\,\s*beforeupdate'),'token':re.compile('token=(.*)\&st='),'sortType':re.compile('id\:\s\"(.*?)\"\,\sdesc'),'sortRule':re.compile('\,\sdesc\:\s(\w+?)\s\}\,')}
-        #get total page number
-        totalPageQty=reg['pageNum'].findall(response.text)[0]
-        self.logger.info('total page numer is %s'%totalPageQty)
-        self.totalPageNum=totalPageQty
-        #get stock info on first page
-        stockInfoOn1stPage=reg['stockInfo'].findall(response.text)[0]
-        parsedStockInfoOn1stPage=json.loads(stockInfoOn1stPage)
-        self.logger.debug('stock info of first page is:')
-        self.logger.debug(parsedStockInfoOn1stPage)
-        self.totalRecords.append(parsedStockInfoOn1stPage)
-        #prepare url for following pages
-        tmpToken=reg['token'].findall(response.text)[0]
-        tmpSort=reg['sortType'].findall(response.text)[0]
-        parsedRule={'true':'-1','false':'1'}
-        tmpRule=parsedRule[reg['sortRule'].findall(response.text)[0]]
-        self.logger.info('sort type is %s'%tmpSort)
-        self.logger.debug('token is %s'%tmpToken)
-        self.logger.debug('sort type is %s'%tmpSort)
-        self.logger.info('sort rule is %s'%tmpRule)
+        reg = {
+            "onePageInfo": re.compile("var\s\S{8}=(.*)"),
+            "token": re.compile("token=(.*)\&st="),
+            "sortType": re.compile('id\:\s"(.*?)"\,\sdesc'),
+            "sortRule": re.compile("\,\sdesc\:\s(\w+?)\s\}\,"),
+        }
+        # tokens for urls used by following pages
+        tmpToken = reg["token"].findall(response.text)[0]
+        tmpSort = reg["sortType"].findall(response.text)[0]
+        parsedRule = {"true": "-1", "false": "1"}
+        tmpRule = parsedRule[reg["sortRule"].findall(response.text)[0]]
+        self.logger.debug("sort type is %s" % tmpSort)
+        self.logger.debug("token is %s" % tmpToken)
+        self.logger.debug("sort type is %s" % tmpSort)
+        self.logger.debug("sort rule is %s" % tmpRule)
 
-        self.logger.info(self.tmpUrlGenerator.dataTableUrl(tmpToken,tmpSort,tmpRule,'1'))
+        # parse first page of the table, get total page number
+        tmpUrl = self.tmpUrlGenerator.dataTableUrl(tmpToken, tmpSort, tmpRule, "1")
+        self.logger.info("I am working on page 1 of the table")
+        response = self.session.get(tmpUrl, verify=False, headers=Headers.firstHeader)
+        tmpStr = (
+            (reg["onePageInfo"].findall(response.text)[0])
+            .replace("pages:", '"pages":')
+            .replace("data:", '"data":')
+        )
+        self.totalPageNum = json.loads(tmpStr)["pages"]
+        self.logger.info("Totally %s pages will be pulled" % (self.totalPageNum))
+        self.totalRecords = json.loads(tmpStr)["data"]
 
-    def _pullDataFromTable(self):
-        if int(self.totalPageNum)>1:
-            for currentPageNum in range(2,int(self.totalPageNum)+1):
-                self._pullCurrentPage(currentPageNum)
-        else:
-            self.logger.info('Only one page stock informations')
-
+        # parse remaining pages of the table
+        # for currentPageNum in range(2,self.totalPageNum+1):
+        for currentPageNum in range(2, 3):
+            tmpUrl = self.tmpUrlGenerator.dataTableUrl(
+                tmpToken, tmpSort, tmpRule, str(currentPageNum)
+            )
+            self.logger.info(
+                "I am working on page %s of the table" % str(currentPageNum)
+            )
+            response = self.session.get(
+                tmpUrl, verify=False, headers=Headers.firstHeader
+            )
+            tmpStr = (
+                (reg["onePageInfo"].findall(response.text)[0])
+                .replace("pages:", '"pages":')
+                .replace("data:", '"data":')
+            )
+            for tmpEachRecord in json.loads(tmpStr)["data"]:
+                self.totalRecords.append(tmpEachRecord)
+            time.sleep(1)
 
 
     def run(self):
-        self._pullInitPage()
-        #self._pullDataFromTable()
-        self.logger.info('Done!!!!!!!!!!')
+        self._pullData()
+        self.logger.info("Done!!!!!!!!!!")
 
 
+if __name__ == "__main__":
+    log = Log()
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
+    log.logger.info("---------------------------------------------------")
+    log.logger.info("----------Pull Stock Data From Web-----------------")
+    log.logger.info("----------Developed By Zhang Zi We-----------------")
+    log.logger.info("---------------------------------------------------")
 
-
-if __name__=='__main__':
-    log=Log()
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
-
-    log.logger.info('---------------------------------------------------')
-    log.logger.info('----------Pull Stock Data From Web-----------------')
-    log.logger.info('----------Developed By Zhang Zi We-----------------')
-    log.logger.info('---------------------------------------------------')
-
-    myData=PullDataFromWeb('2018Q1')
+    myData = PullDataFromWeb("资产负债表", "2018Q1")
     myData.run()
