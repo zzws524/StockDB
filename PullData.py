@@ -146,7 +146,7 @@ class PullDataFromWeb:
         self.totalPageNum = 1
         self.tmpUrlGenerator = UrlAddress()
 
-    def _pullData(self):
+    def pullData(self):
         firstPageUrl = self.tmpUrlGenerator.getInitPage(self.tableType, self.timeWanted)
         response = self.session.get(
             firstPageUrl, verify=False, headers=Headers.firstHeader
@@ -204,9 +204,14 @@ class PullDataFromWeb:
                 self.totalRecords.append(tmpEachRecord)
             time.sleep(1)
 
-
-    def run(self):
-        self._pullData()
+    def saveResult(self, path):
+        myFile = path + r"/" + self.tableType + self.timeWanted + r".txt"
+        with open(myFile, "a") as f:
+            for eachRecord in self.totalRecords:
+                f.write(str(eachRecord))
+                f.write("\n")
+            f.close()
+        self.logger.info("Totally %s records"%str(len(self.totalRecords)))
         self.logger.info("Done!!!!!!!!!!")
 
 
@@ -219,5 +224,6 @@ if __name__ == "__main__":
     log.logger.info("----------Developed By Zhang Zi We-----------------")
     log.logger.info("---------------------------------------------------")
 
-    myData = PullDataFromWeb("资产负债表", "2018Q1")
-    myData.run()
+    myData = PullDataFromWeb("资产负债表", "2017Q4")
+    myData.pullData()
+    myData.saveResult(log.resultFolder)
