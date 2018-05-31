@@ -211,7 +211,7 @@ class PullDataFromWeb:
                 f.write(str(eachRecord))
                 f.write("\n")
             f.close()
-        self.logger.info("Totally %s records"%str(len(self.totalRecords)))
+        self.logger.info("Totally %s records" % str(len(self.totalRecords)))
         self.logger.info("Done!!!!!!!!!!")
 
 
