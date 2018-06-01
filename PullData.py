@@ -184,8 +184,8 @@ class PullDataFromWeb:
         self.totalRecords = json.loads(tmpStr)["data"]
 
         # parse remaining pages of the table
-        # for currentPageNum in range(2,self.totalPageNum+1):
-        for currentPageNum in range(2, 3):
+        # for currentPageNum in range(2, 3):
+        for currentPageNum in range(2,self.totalPageNum+1):
             tmpUrl = self.tmpUrlGenerator.dataTableUrl(
                 tmpToken, tmpSort, tmpRule, str(currentPageNum)
             )
@@ -224,6 +224,6 @@ if __name__ == "__main__":
     log.logger.info("----------Developed By Zhang Zi We-----------------")
     log.logger.info("---------------------------------------------------")
 
-    myData = PullDataFromWeb("资产负债表", "2017Q4")
+    myData = PullDataFromWeb("业绩报表", "2017Q3")
     myData.pullData()
     myData.saveResult(log.resultFolder)
